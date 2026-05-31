@@ -1,7 +1,7 @@
 # Java Functional Programming
 
-- [Lambda expressions](./lambda/lambda.md)
-- Functional interfaces
-- Streams API
-- Method references
-- Optional
+- [Lambda expressions](./lambda_expressions/lambda_expressions)
+- [Functional interfaces](./functional_interface/functional_interface.md)
+- [Streams API](./stream_api/stream.md)
+- [Method references](./method_references/method_references.md)
+- [Optional](./optional/optional.md)

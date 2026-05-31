@@ -1,4 +1,4 @@
-package com.gwsc.functional_programming.stream;
+package com.gwsc.functional_programming.stream_api;
 
 public class Stream {
 

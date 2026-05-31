@@ -4,7 +4,7 @@
 # Java Lambda Functions - Comprehensive Notes with Java Examples
 
 ## Code
-- [Foreach function](Lambda.java)
+- [Foreach function](ForEach.java)
 - 
 ## 1. Introduction
 
