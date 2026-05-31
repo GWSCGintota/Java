@@ -1,5 +1,5 @@
 #### [<-Back](../functional_programming.md) 
-# Java Functional Programming: Optional - Comprehensive Notes with Examples
+# Java Functional Programming: Optional
 
 ## 1. Introduction
 
