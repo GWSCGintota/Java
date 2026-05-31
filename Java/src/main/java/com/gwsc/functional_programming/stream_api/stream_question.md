@@ -28,6 +28,9 @@ A. Java 5
 B. Java 6  
 C. Java 8  
 D. Java 11
+<textarea rows="5" cols="40">
+Write your text here...
+</textarea>
 
 ### Question 2
 A Java Stream is mainly used to:
