@@ -1,8 +1,11 @@
 #### [<-Back](../functional_programming.md)  
-# Java Lambda Functions
+
 
 # Java Lambda Functions - Comprehensive Notes with Java Examples
 
+## Code
+- [Foreach function](Lambda.java)
+- 
 ## 1. Introduction
 
 A **lambda function** in Java is a short way to write an anonymous function.
