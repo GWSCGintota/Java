@@ -1,3 +1,4 @@
+#### [<-Back](../functional_programming.md)
 # Java Functional Programming: Method References - Comprehensive Notes with Examples
 
 ## 1. Introduction
