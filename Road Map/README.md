@@ -713,3 +713,29 @@ This course pack contains **580 numbered Java learning topics**. Each topic has 
 - [578. Fault tolerance](40_Software_Architecture/578_Fault_tolerance.md)
 - [579. Database scaling](40_Software_Architecture/579_Database_scaling.md)
 - [580. Horizontal vs vertical scaling](40_Software_Architecture/580_Horizontal_vs_vertical_scaling.md)
+
+
+## 41. Interview Questions
+
+- [Open the Interview Questions folder](41_Interview_Questions/README.md)
+- [Core Java Interview Questions](41_Interview_Questions/01_Core_Java_Interview_Questions.md)
+- [OOP Interview Questions](41_Interview_Questions/02_OOP_Interview_Questions.md)
+- [Collections Interview Questions](41_Interview_Questions/03_Collections_Interview_Questions.md)
+- [Generics Interview Questions](41_Interview_Questions/04_Generics_Interview_Questions.md)
+- [Exception Handling Interview Questions](41_Interview_Questions/05_Exception_Handling_Interview_Questions.md)
+- [Lambdas, Streams & Optional Interview Questions](41_Interview_Questions/06_Lambdas_Streams_Optional_Interview_Questions.md)
+- [Multithreading & Concurrency Interview Questions](41_Interview_Questions/07_Multithreading_Concurrency_Interview_Questions.md)
+- [JVM Interview Questions](41_Interview_Questions/08_JVM_Interview_Questions.md)
+- [Data Structures & Algorithms Interview Questions](41_Interview_Questions/09_Data_Structures_Algorithms_Interview_Questions.md)
+- [SQL & JDBC Interview Questions](41_Interview_Questions/10_SQL_JDBC_Interview_Questions.md)
+- [Spring Framework Interview Questions](41_Interview_Questions/11_Spring_Framework_Interview_Questions.md)
+- [Spring Boot Interview Questions](41_Interview_Questions/12_Spring_Boot_Interview_Questions.md)
+- [JPA & Hibernate Interview Questions](41_Interview_Questions/13_JPA_Hibernate_Interview_Questions.md)
+- [REST API Interview Questions](41_Interview_Questions/14_REST_API_Interview_Questions.md)
+- [Spring Security Interview Questions](41_Interview_Questions/15_Spring_Security_Interview_Questions.md)
+- [Microservices & System Design Interview Questions](41_Interview_Questions/16_Microservices_System_Design_Interview_Questions.md)
+- [Kafka & Redis Interview Questions](41_Interview_Questions/17_Kafka_Redis_Interview_Questions.md)
+- [Docker, Cloud & DevOps Interview Questions](41_Interview_Questions/18_Docker_Cloud_Interview_Questions.md)
+- [Behavioral Interview Questions](41_Interview_Questions/19_Behavioral_Interview_Questions.md)
+- [Coding Interview Checklist](41_Interview_Questions/20_Coding_Interview_Checklist.md)
+

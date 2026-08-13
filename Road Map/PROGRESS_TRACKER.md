@@ -701,3 +701,28 @@ Tick topics as you complete them.
 - [ ] 578. Fault tolerance
 - [ ] 579. Database scaling
 - [ ] 580. Horizontal vs vertical scaling
+
+
+## Interview Questions
+
+- [ ] Core Java Interview Questions
+- [ ] OOP Interview Questions
+- [ ] Collections Interview Questions
+- [ ] Generics Interview Questions
+- [ ] Exception Handling Interview Questions
+- [ ] Lambdas, Streams & Optional Interview Questions
+- [ ] Multithreading & Concurrency Interview Questions
+- [ ] JVM Interview Questions
+- [ ] Data Structures & Algorithms Interview Questions
+- [ ] SQL & JDBC Interview Questions
+- [ ] Spring Framework Interview Questions
+- [ ] Spring Boot Interview Questions
+- [ ] JPA & Hibernate Interview Questions
+- [ ] REST API Interview Questions
+- [ ] Spring Security Interview Questions
+- [ ] Microservices & System Design Interview Questions
+- [ ] Kafka & Redis Interview Questions
+- [ ] Docker, Cloud & DevOps Interview Questions
+- [ ] Behavioral Interview Questions
+- [ ] Coding Interview Checklist
+
