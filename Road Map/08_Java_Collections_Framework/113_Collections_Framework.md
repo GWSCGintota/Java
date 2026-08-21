@@ -3,41 +3,103 @@
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 
-## Learning goal
+1. Hierarchy of Collection Framework
+2. What is Collection Framework
+3. Iterable Interface
+4. Iterator Interface
+                  
 
-Understand **Collections Framework**, why it matters in Java development, and how it connects to the topics around it.
 
-## Key things to learn
+## Hierarchy of Collection Framework
+![Collection Architecture](../../assert/images/collection.png)
 
-- What **Collections Framework** means.
-- The Java syntax, API, pattern, or concept associated with it.
-- When you should use it in a real Java program.
-- Common beginner mistakes and how to avoid them.
-- How it relates to earlier and later topics in this roadmap.
 
-## Starter note
+##1. What is Collection Framework?
+- The Collection Framework is a set of classes and interfaces used to store and manage data. 
+- It provides different data structures like lists, sets, and queues.
 
-Do not only memorize the definition. For this topic, aim to be able to **recognize it, explain it, and use it in a small example**.
+ **Interfaces**
+  - Interable
+  - Collection
+  - List
+  - Queue
+  - Deque
+  - Set
+  - SortedSet
+  
+ **Classes**
+ - ArrayList
+ - LinkedList
+ - PriorityQueue
+ - HashSet
+ - LinkedHashSet
+ - TreeSet
+ 
+ ##2. Iterable Interface
+The Iterable interface is the root interface for all the collection classes. The Collection interface extends the Iterable interface, and therefore, all the subclasses of the Collection interface also implement the Iterable interface.
 
-## Example / syntax hint
-
-```java
-// Add a small example for: Collections Framework
+**It contains only one abstract method. i.e**
+```
+Iterator<T> iterator()  
 ```
 
-> The snippet above is only a starting hint. Expand it into a complete working example while studying the topic.
+```
+import java.util.*;  
+  
+public class IterableExample {  
+    public static void main(String[] args) {  
+        Iterable<String> list = new ArrayList<>();  
+  
+        list.add("Rahul");  
+        list.add("Priya");  
+        list.add("Amit");  
+  
+        for (String name : list) {  
+            System.out.println(name);  
+        }  
+    }  
+}  
+```
 
-## Practice
+Output:
+```
+Rahul
+Priya
+Amit
+```
 
-Create a collection of sample values and perform one realistic operation using **Collections Framework**.
+   
+  ##3. Iterator Interface
+ The Iterator interface is used to traverse elements of a collection one by one. It allows only forward direction traversal. It also provides methods to remove elements while iterating.
+ 
+ ```
+import java.util.*;  
+  
+public class IteratorExample {  
+    public static void main(String[] args) {  
+        Collection<String> list = new ArrayList<>();  
+  
+        list.add("Rahul");  
+        list.add("Priya");  
+        list.add("Amit");  
+  
+        Iterator<String> itr = list.iterator();  
+  
+        while (itr.hasNext()) {  
+            System.out.println(itr.next());  
+        }  
+    }  
+}  
+```
 
-## Completion checklist
+**Out put**
+```
+Rahul
+Priya
+Amit
+```
+ 
 
-- [ ] I can explain **Collections Framework** in my own words.
-- [ ] I can recognize it in Java code.
-- [ ] I can write or modify a small example that uses it.
-- [ ] I know at least one common mistake related to it.
-- [ ] I understand why this topic is useful before moving on.
 
 ---
 
