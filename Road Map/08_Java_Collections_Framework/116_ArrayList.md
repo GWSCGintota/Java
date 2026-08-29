@@ -140,6 +140,89 @@ Vijay
 Ravi
 Ajay
 ```
+## 6. Removing Elements from ArrayList
+
+ArrayList provides multiple methods to remove elements.
+
+```
+import java.util.*;  
+  
+class Main {  
+    public static void main(String[] args) {  
+        ArrayList<String> list = new ArrayList<>();  
+  
+        list.add("Ravi");  
+        list.add("Vijay");  
+        list.add("Ajay");  
+  
+        list.remove("Vijay");  
+        list.remove(0);  
+  
+        System.out.println(list);  
+    }  
+}  
+
+```
+**Output:**
+
+```
+[Ajay]
+```
+---
+
+## 7.ArrayList - retainAll() Method
+The retainAll() method keeps only common elements between two collections.
+
+```
+import java.util.*;  
+  
+class Main {  
+    public static void main(String args[]) {  
+        ArrayList<String> list1 = new ArrayList<>();  
+        list1.add("Ravi");  
+        list1.add("Vijay");  
+  
+        ArrayList<String> list2 = new ArrayList<>();  
+        list2.add("Ravi");  
+  
+        list1.retainAll(list2);  
+  
+        System.out.println(list1);  
+    }  
+}  
+```
+
+
+**Output:**
+
+```
+[Ravi]
+```
+
+## 8.ArrayList isEmpty() Method
+The isEmpty() method checks whether the ArrayList is empty.
+
+```
+import java.util.*;  
+  
+class Main {  
+    public static void main(String[] args) {  
+        ArrayList<String> list = new ArrayList<>();  
+  
+        System.out.println(list.isEmpty());  
+  
+        list.add("Ravi");  
+  
+        System.out.println(list.isEmpty());  
+    }  
+}  
+```
+
+**Output**
+```
+true
+false
+```
 
 ---
 
