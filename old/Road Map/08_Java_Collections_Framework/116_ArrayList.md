@@ -78,7 +78,7 @@ You can sort an ArrayList using the Collections.sort() method from the java.util
         list1.add("Banana");  
         list1.add("Grapes");  
   
-        Collections.sort(list
+        Collections.sort(list)
 ```
 
 ## 6. Iterating Collection through Other Ways

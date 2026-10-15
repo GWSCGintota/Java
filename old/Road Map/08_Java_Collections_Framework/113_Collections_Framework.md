@@ -5,6 +5,7 @@
 
 1. Hierarchy of Collection Framework
 2. What is Collection Framework
+3. what are the classes and interfaces in collection framework?
 3. Iterable Interface
 4. Iterator Interface
                   
@@ -14,7 +15,7 @@
 ![Collection Architecture](../../assert/images/collection.png)
 
 
-##1. What is Collection Framework?
+## 1. What is Collection Framework?
 - The Collection Framework is a set of classes and interfaces used to store and manage data. 
 - It provides different data structures like lists, sets, and queues.
 
@@ -30,12 +31,15 @@
  **Classes**
  - ArrayList
  - LinkedList
+ - Vector
+ - Stack
  - PriorityQueue
+ - ArrayDeque
  - HashSet
  - LinkedHashSet
  - TreeSet
  
- ##2. Iterable Interface
+ ## 2. Iterable Interface
 The Iterable interface is the root interface for all the collection classes. The Collection interface extends the Iterable interface, and therefore, all the subclasses of the Collection interface also implement the Iterable interface.
 
 **It contains only one abstract method. i.e**

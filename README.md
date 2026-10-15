@@ -1,6 +1,6 @@
 # Java Modular Course
 
-Open [main.md](main.md) to access the full linked course.
+Open [main.md](old/main.md) to access the full linked course.
 
 ## Contents
 
@@ -12,6 +12,6 @@ Open [main.md](main.md) to access the full linked course.
 
 ## Start here
 
-- [Main Index](main.md)
-- [Topic 1: Introduction to Java](topics/01-introduction-to-java.md)
-- [Final Topic: Java Interview Questions](topics/49-java-interview-questions.md)
+- [Main Index](old/main.md)
+- [Topic 1: Introduction to Java](old/topics/01-introduction-to-java.md)
+- [Final Topic: Java Interview Questions](old/topics/49-java-interview-questions.md)
