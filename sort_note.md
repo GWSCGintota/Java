@@ -17,6 +17,15 @@
 9. <u>Generics</u>
 
 10. <u>Functional Programming</u>
+    - What is the functional interface?
+      - Funcitonal interface is a type of interface. it has only  one abstract method. 
+        But it has default and static methods.
+    - What is the lambda function?
+      - Lambda function  has been introduced in java 8. We can write a less code functions using lambda functions.
+        and it will increase code readability.
+        - Syntax and parameter 
+          - (parameters) -> expression
+            (parameters) -> { statements; }
 
 11. <u>Stream API</u>
 
