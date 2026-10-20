@@ -52,6 +52,23 @@ public class Main {
         numbers.stream().filter(greaterThan10.and(even)).collect(Collectors.toList());
 
 
+        Function<String,Integer> parse= Integer::parseInt;
+        System.out.println(parse.apply("42"));
+
+        IntBinaryOperator maximum= Math::max;
+        System.out.println(maximum.applyAsInt(7,12));
+
+        ToIntFunction<String> parsePrimitive = Integer::parseInt;
+        int value= parsePrimitive.applyAsInt("42");
+
+        StringBuilder builder = new StringBuilder();
+        Consumer<String> append=builder::append;
+        append.accept("Java");
+        append.accept("8+");
+        System.out.println(builder);
+
+
+
     }
 
     public static int applyOperation(
@@ -72,5 +89,7 @@ public class Main {
             return n-> n* multiplier;
 
     }
+
+
 
 }

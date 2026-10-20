@@ -437,6 +437,18 @@ Task executed
 
 Prefer short lambdas with meaningful parameter names. Use ordinary loops when early exit, complex control flow, or debugging is clearer. Lambdas are useful tools, not a requirement to rewrite every method or loop.
 
+Predicate<T> — tests a condition and returns a boolean.
+
+Function<T, R> — transforms an input into an output.
+
+Consumer<T> — accepts an input and performs an action.
+
+Supplier<T> — supplies a value without taking input.
+
+UnaryOperator<T> — takes one input and returns the same type.
+
+BinaryOperator<T> — takes two inputs and returns the same type.
+
 ## 18. Practice
 
 1. Write an `IntPredicate` that checks whether a number is even.
