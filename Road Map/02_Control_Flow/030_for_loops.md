@@ -1,5 +1,7 @@
 # 030. for loops
 
+[Coding practice →](../../code_practice/02_Control_Flow/030_for_loops.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

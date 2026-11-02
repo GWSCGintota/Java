@@ -1,5 +1,7 @@
 # 410. Spring Framework
 
+[Coding practice →](../../code_practice/29_Spring_Framework/410_Spring_Framework.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

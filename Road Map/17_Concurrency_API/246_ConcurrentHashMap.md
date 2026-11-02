@@ -1,5 +1,7 @@
 # 246. ConcurrentHashMap
 
+[Coding practice →](../../code_practice/17_Concurrency_API/246_ConcurrentHashMap.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

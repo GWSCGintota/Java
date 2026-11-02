@@ -1,5 +1,7 @@
 # 380. Commit
 
+[Coding practice →](../../code_practice/27_Git/380_Commit.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

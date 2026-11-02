@@ -1,5 +1,7 @@
 # 354. Open/Closed Principle
 
+[Coding practice →](../../code_practice/25_SOLID_Principles/354_OpenClosed_Principle.md)
+
 **Section:** SOLID Principles  
 **Level:** Intermediate
 

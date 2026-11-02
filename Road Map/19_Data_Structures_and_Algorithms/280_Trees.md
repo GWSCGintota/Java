@@ -1,5 +1,7 @@
 # 280. Trees
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/280_Trees.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 372. State
 
+[Coding practice →](../../code_practice/26_Design_Patterns/372_State.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

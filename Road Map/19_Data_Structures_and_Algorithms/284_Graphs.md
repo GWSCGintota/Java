@@ -1,5 +1,7 @@
 # 284. Graphs
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/284_Graphs.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

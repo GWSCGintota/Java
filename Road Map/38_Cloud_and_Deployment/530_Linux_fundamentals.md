@@ -1,5 +1,7 @@
 # 530. Linux fundamentals
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/530_Linux_fundamentals.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

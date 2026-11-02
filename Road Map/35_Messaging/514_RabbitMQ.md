@@ -1,5 +1,7 @@
 # 514. RabbitMQ
 
+[Coding practice →](../../code_practice/35_Messaging/514_RabbitMQ.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

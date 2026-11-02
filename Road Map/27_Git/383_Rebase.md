@@ -1,5 +1,7 @@
 # 383. Rebase
 
+[Coding practice →](../../code_practice/27_Git/383_Rebase.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

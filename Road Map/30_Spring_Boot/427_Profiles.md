@@ -1,5 +1,7 @@
 # 427. Profiles
 
+[Coding practice →](../../code_practice/30_Spring_Boot/427_Profiles.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 405. RESTful API design
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/405_RESTful_API_design.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

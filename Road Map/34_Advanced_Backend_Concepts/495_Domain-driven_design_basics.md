@@ -1,5 +1,7 @@
 # 495. Domain-driven design basics
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/495_Domain-driven_design_basics.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

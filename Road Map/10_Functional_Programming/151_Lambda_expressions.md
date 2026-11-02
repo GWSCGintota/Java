@@ -1,5 +1,7 @@
 # 151. Lambda expressions
 
+[Coding practice →](../../code_practice/10_Functional_Programming/151_Lambda_expressions.md)
+
 **Section:** Java Functional Programming
 **Level:** Beginner → Advanced
 **Version:** Lambdas require Java 8+. Lambda parameter `var` requires Java 11+.

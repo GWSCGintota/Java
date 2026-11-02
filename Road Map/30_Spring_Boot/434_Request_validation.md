@@ -1,5 +1,7 @@
 # 434. Request validation
 
+[Coding practice →](../../code_practice/30_Spring_Boot/434_Request_validation.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

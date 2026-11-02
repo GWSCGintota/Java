@@ -1,5 +1,7 @@
 # 364. Decorator
 
+[Coding practice →](../../code_practice/26_Design_Patterns/364_Decorator.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

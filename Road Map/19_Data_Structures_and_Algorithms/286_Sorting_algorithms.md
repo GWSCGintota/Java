@@ -1,5 +1,7 @@
 # 286. Sorting algorithms
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/286_Sorting_algorithms.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

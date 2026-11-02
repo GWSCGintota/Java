@@ -2,6 +2,8 @@
 
 # Java Supplier Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/156_Supplier.md)
+
 These exercises follow [156. Supplier](../../Road%20Map/10_Functional_Programming/156_Supplier.md), progressing from basic factories to deferred computation and memoization. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run questions independently. Put helpers inside `Main` and example statements inside `main()`. Suppliers and mappers are non-null unless a task states otherwise.
@@ -297,5 +299,30 @@ Calls: 2
 | Memoization | Cache a successful result explicitly | Separate initialized flag |
 
 **Reminder:** Suppliers do not inherently cache, schedule asynchronous execution, or guarantee fresh objects. Document invocation, null, failure, and ownership policies when exposing a supplier.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — Does Supplier guarantee fresh objects or cached values?
+
+**Answer:** Neither. Its body defines whether it creates a new value, returns a shared object, reads changing state, or returns a constant. Memoization is a separate policy.
+
+### Interview Question 2 — What is the difference between orElse and orElseGet?
+
+**Answer:** The argument expression for orElse is evaluated before the method call. orElseGet receives behavior and invokes it only when the optional is empty.
+
+### Interview Question 3 — How can a memoizer cache null?
+
+**Answer:** Track initialization with a separate boolean rather than treating null as uninitialized. Set that flag only after the source returns successfully if failed attempts should remain retryable.
+
+### Interview Question 4 — Does a supplier run asynchronously?
+
+**Answer:** Calling get is an ordinary synchronous call. An API such as CompletableFuture.supplyAsync explicitly schedules the supplier and defines how completion and failure are reported.
+
+### Interview Question 5 — Why must collection factories provide fresh containers?
+
+**Answer:** Mutable collection operations may create multiple partial containers, particularly in parallel collection. Returning the same shared container breaks the independence needed by that collection design.
+
 
 [← 155. Consumer](155_Consumer.md) | [Course Index](../README.md) | [157. UnaryOperator →](157_UnaryOperator.md)

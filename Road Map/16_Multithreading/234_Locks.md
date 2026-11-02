@@ -1,5 +1,7 @@
 # 234. Locks
 
+[Coding practice →](../../code_practice/16_Multithreading/234_Locks.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 504. Idempotency
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/504_Idempotency.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

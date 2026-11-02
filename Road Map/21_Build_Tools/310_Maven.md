@@ -1,5 +1,7 @@
 # 310. Maven
 
+[Coding practice →](../../code_practice/21_Build_Tools/310_Maven.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

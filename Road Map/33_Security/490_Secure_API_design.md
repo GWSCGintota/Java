@@ -1,5 +1,7 @@
 # 490. Secure API design
 
+[Coding practice →](../../code_practice/33_Security/490_Secure_API_design.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

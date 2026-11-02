@@ -1,5 +1,7 @@
 # 579. Database scaling
 
+[Coding practice →](../../code_practice/40_Software_Architecture/579_Database_scaling.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

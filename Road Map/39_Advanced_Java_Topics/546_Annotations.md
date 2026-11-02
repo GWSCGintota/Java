@@ -1,5 +1,7 @@
 # 546. Annotations
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/546_Annotations.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

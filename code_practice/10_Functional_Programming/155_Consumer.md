@@ -2,6 +2,8 @@
 
 # Java Consumer Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/155_Consumer.md)
+
 These exercises follow [155. Consumer](../../Road%20Map/10_Functional_Programming/155_Consumer.md), progressing from basic actions to generic processing and dynamic consumer composition. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Snippets assume `java.util.*`, `java.util.function.*`, `java.util.stream.Collectors`, and `java.util.stream.IntStream` imports. Place statements inside `main()` and helper methods inside the enclosing class. Run each exercise independently. Inputs are non-null unless a task specifies otherwise; numeric examples use small values that do not overflow.
@@ -328,5 +330,30 @@ System.out.println(events);
 | `ObjIntConsumer<T>` | Consume an object and primitive `int` | `appendNumber.accept(builder, 7)` |
 
 **Reminder:** Consumers do not automatically create threads or make mutable objects thread-safe. For parallel result construction, prefer `collect(Collectors.toList())` over adding to a shared `ArrayList` inside `forEach()`. Use `forEachOrdered()` when a stream's encounter order must be preserved, and keep required actions out of `peek()`.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — What does Consumer.accept return?
+
+**Answer:** It returns void. A consumer describes an action whose useful effect may be printing, mutation, or a callback. Use a function when the caller needs a result.
+
+### Interview Question 2 — What input does each chained consumer receive?
+
+**Answer:** Each receives the same original input, in chain order. There is no returned result passed between stages, although later actions can observe mutations to the shared input object.
+
+### Interview Question 3 — Does andThen roll back earlier actions when a later one fails?
+
+**Answer:** No. Exceptions skip later actions and propagate to the caller; effects already performed remain. Transactions or compensation require an explicit application design.
+
+### Interview Question 4 — How do Consumer and BiConsumer differ?
+
+**Answer:** Consumer accepts one input; BiConsumer accepts two, such as a map key and value. Both return void, and each supplies its own andThen method.
+
+### Interview Question 5 — Why avoid required effects in peek?
+
+**Answer:** peek is intermediate and may not run without traversal or when processing is optimized or short-circuited. Put required effects in explicit control flow or an appropriate terminal action.
+
 
 [← 154. Function](154_Function.md) | [Course Index](../README.md) | [156. Supplier →](156_Supplier.md)

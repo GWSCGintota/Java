@@ -1,5 +1,7 @@
 # 150. Functional interfaces
 
+[Coding practice →](../../code_practice/10_Functional_Programming/150_Functional_interfaces.md)
+
 **Section:** Java Functional Programming  
 **Level:** Beginner → Intermediate
 

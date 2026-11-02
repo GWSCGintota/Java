@@ -1,5 +1,7 @@
 # 346. YAGNI
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/346_YAGNI.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

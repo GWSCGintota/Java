@@ -1,5 +1,7 @@
 # 149. Type erasure
 
+[Coding practice →](../../code_practice/09_Generics/149_Type_erasure.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 378. Git basics
 
+[Coding practice →](../../code_practice/27_Git/378_Git_basics.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 377. Repository pattern
 
+[Coding practice →](../../code_practice/26_Design_Patterns/377_Repository_pattern.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 108. throw
 
+[Coding practice →](../../code_practice/07_Exception_Handling/108_throw.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

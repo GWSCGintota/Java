@@ -1,5 +1,7 @@
 # 288. Recursion in algorithms
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/288_Recursion_in_algorithms.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

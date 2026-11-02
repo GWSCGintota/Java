@@ -1,5 +1,7 @@
 # 225. Creating threads
 
+[Coding practice →](../../code_practice/16_Multithreading/225_Creating_threads.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

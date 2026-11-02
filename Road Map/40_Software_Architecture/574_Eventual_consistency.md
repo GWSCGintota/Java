@@ -1,5 +1,7 @@
 # 574. Eventual consistency
 
+[Coding practice →](../../code_practice/40_Software_Architecture/574_Eventual_consistency.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

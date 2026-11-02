@@ -1,5 +1,7 @@
 # 281. Binary trees
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/281_Binary_trees.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

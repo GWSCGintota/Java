@@ -1,5 +1,7 @@
 # 053. Sorting arrays
 
+[Coding practice →](../../code_practice/04_Arrays/053_Sorting_arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

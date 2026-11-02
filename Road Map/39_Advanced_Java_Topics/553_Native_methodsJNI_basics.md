@@ -1,5 +1,7 @@
 # 553. Native methods/JNI basics
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/553_Native_methodsJNI_basics.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

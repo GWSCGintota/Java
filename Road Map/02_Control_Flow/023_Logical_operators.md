@@ -1,5 +1,7 @@
 # 023. Logical operators
 
+[Coding practice →](../../code_practice/02_Control_Flow/023_Logical_operators.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

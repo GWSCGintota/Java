@@ -1,5 +1,7 @@
 # 254. JVM architecture
 
+[Coding practice →](../../code_practice/18_JVM_Internals/254_JVM_architecture.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

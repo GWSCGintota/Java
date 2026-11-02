@@ -1,5 +1,7 @@
 # 564. Layered architecture in system design
 
+[Coding practice →](../../code_practice/40_Software_Architecture/564_Layered_architecture_in_system_design.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

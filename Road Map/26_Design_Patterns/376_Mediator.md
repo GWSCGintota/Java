@@ -1,5 +1,7 @@
 # 376. Mediator
 
+[Coding practice →](../../code_practice/26_Design_Patterns/376_Mediator.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

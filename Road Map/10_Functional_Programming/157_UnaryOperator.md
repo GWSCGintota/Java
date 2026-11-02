@@ -4,6 +4,8 @@
 
 # 157. UnaryOperator
 
+[Coding practice →](../../code_practice/10_Functional_Programming/157_UnaryOperator.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

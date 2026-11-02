@@ -1,5 +1,7 @@
 # 277. Stacks
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/277_Stacks.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 415. Component scanning
 
+[Coding practice →](../../code_practice/29_Spring_Framework/415_Component_scanning.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 441. Entities
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/441_Entities.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

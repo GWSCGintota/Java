@@ -1,5 +1,7 @@
 # 350. Immutability
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/350_Immutability.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

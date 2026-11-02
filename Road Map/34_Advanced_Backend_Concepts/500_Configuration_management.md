@@ -1,5 +1,7 @@
 # 500. Configuration management
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/500_Configuration_management.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 451. Eager loading
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/451_Eager_loading.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

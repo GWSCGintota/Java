@@ -1,5 +1,7 @@
 # 135. Natural ordering
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/135_Natural_ordering.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

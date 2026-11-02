@@ -1,5 +1,7 @@
 # 038. Parameters
 
+[Coding practice →](../../code_practice/03_Methods/038_Parameters.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

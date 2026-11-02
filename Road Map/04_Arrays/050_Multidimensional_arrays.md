@@ -1,5 +1,7 @@
 # 050. Multidimensional arrays
 
+[Coding practice →](../../code_practice/04_Arrays/050_Multidimensional_arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

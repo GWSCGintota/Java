@@ -1,5 +1,7 @@
 # 487. CSRF
 
+[Coding practice →](../../code_practice/33_Security/487_CSRF.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

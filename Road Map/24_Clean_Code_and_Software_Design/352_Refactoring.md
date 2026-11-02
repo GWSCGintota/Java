@@ -1,5 +1,7 @@
 # 352. Refactoring
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/352_Refactoring.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

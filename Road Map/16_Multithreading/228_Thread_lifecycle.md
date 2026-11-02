@@ -1,5 +1,7 @@
 # 228. Thread lifecycle
 
+[Coding practice →](../../code_practice/16_Multithreading/228_Thread_lifecycle.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

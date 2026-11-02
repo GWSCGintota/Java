@@ -1,5 +1,7 @@
 # 223. Validation with regex
 
+[Coding practice →](../../code_practice/15_Regular_Expressions/223_Validation_with_regex.md)
+
 **Section:** Regular Expressions  
 **Level:** Beginner → Intermediate
 

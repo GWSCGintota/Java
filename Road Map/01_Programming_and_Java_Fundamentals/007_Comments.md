@@ -1,5 +1,7 @@
 # 007. Comments
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/007_Comments.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

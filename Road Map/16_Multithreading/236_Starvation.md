@@ -1,5 +1,7 @@
 # 236. Starvation
 
+[Coding practice →](../../code_practice/16_Multithreading/236_Starvation.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

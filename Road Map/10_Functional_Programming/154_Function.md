@@ -4,6 +4,8 @@
 
 # 154. Function
 
+[Coding practice →](../../code_practice/10_Functional_Programming/154_Function.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

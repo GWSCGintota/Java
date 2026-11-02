@@ -1,5 +1,7 @@
 # 229. sleep()
 
+[Coding practice →](../../code_practice/16_Multithreading/229_sleep.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

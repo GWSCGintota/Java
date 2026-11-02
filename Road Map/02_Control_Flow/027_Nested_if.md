@@ -1,5 +1,7 @@
 # 027. Nested if
 
+[Coding practice →](../../code_practice/02_Control_Flow/027_Nested_if.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

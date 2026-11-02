@@ -1,5 +1,7 @@
 # 456. Spring Data JPA
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/456_Spring_Data_JPA.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

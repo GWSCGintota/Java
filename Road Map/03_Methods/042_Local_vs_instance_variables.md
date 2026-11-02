@@ -1,5 +1,7 @@
 # 042. Local vs instance variables
 
+[Coding practice →](../../code_practice/03_Methods/042_Local_vs_instance_variables.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

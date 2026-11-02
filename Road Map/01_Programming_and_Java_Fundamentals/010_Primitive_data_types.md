@@ -1,5 +1,7 @@
 # 010. Primitive data types
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/010_Primitive_data_types.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

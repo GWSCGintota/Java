@@ -2,6 +2,8 @@
 
 # Java BinaryOperator Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/158_BinaryOperator.md)
+
 These exercises follow [158. BinaryOperator](../../Road%20Map/10_Functional_Programming/158_BinaryOperator.md), progressing from two-input operations to reductions and merge policies. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run exercises independently. Place nested classes inside `Main` and example statements inside `main()`. Inputs are non-null and arithmetic uses small values that do not overflow.
@@ -255,5 +257,30 @@ System.out.println(total.accumulateAndGet(5, add));
 | `andThen()` | Transform a combined result | Returns `BiFunction` |
 
 **Reminder:** Use `collect()` for mutable accumulation containers rather than a shared mutable `reduce()` identity. Associativity and commutativity are different properties: string concatenation is associative but preserves a meaningful order.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — How does BinaryOperator differ from BiFunction?
+
+**Answer:** BinaryOperator<T> extends BiFunction<T, T, T>, so both inputs and the result share a type. BiFunction permits three different types.
+
+### Interview Question 2 — Why must reduction operations be associative?
+
+**Answer:** A stream implementation can regroup partial results. An associative operation preserves the result under regrouping. Subtraction is not associative and is unsuitable for a general reduction contract.
+
+### Interview Question 3 — What makes an identity valid for reduce?
+
+**Answer:** It must be neutral for the operation, such as zero for integer addition or one for multiplication. A non-neutral starting offset can be applied multiple times across parallel partitions.
+
+### Interview Question 4 — Why does reduce without an identity return Optional?
+
+**Answer:** An empty stream has no element to return. Optional represents that absence rather than inventing a result that might not be a neutral value.
+
+### Interview Question 5 — When should collect be used instead of reduce?
+
+**Answer:** Use collect for mutable accumulation with independently created containers. A shared mutable reduce identity can be reused across partial computations and produce incorrect or unsafe results.
+
 
 [← 157. UnaryOperator](157_UnaryOperator.md) | [Course Index](../README.md) | [159. Higher-order style programming →](159_Higher-order_style_programming.md)

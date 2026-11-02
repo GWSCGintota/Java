@@ -1,5 +1,7 @@
 # 368. Bridge
 
+[Coding practice →](../../code_practice/26_Design_Patterns/368_Bridge.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

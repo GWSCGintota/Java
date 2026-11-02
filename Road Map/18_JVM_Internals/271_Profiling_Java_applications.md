@@ -1,5 +1,7 @@
 # 271. Profiling Java applications
 
+[Coding practice →](../../code_practice/18_JVM_Internals/271_Profiling_Java_applications.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

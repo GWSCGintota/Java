@@ -1,5 +1,7 @@
 # 527. Docker Compose
 
+[Coding practice →](../../code_practice/37_Docker/527_Docker_Compose.md)
+
 **Section:** Docker  
 **Level:** Advanced / Professional
 

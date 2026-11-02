@@ -1,5 +1,7 @@
 # 222. Groups
 
+[Coding practice →](../../code_practice/15_Regular_Expressions/222_Groups.md)
+
 **Section:** Regular Expressions  
 **Level:** Beginner → Intermediate
 

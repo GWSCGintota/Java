@@ -1,5 +1,7 @@
 # 261. Strong references
 
+[Coding practice →](../../code_practice/18_JVM_Internals/261_Strong_references.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

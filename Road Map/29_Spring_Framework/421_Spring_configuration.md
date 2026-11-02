@@ -1,5 +1,7 @@
 # 421. Spring configuration
 
+[Coding practice →](../../code_practice/29_Spring_Framework/421_Spring_configuration.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

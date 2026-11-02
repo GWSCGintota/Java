@@ -1,5 +1,7 @@
 # 292. Dynamic programming
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/292_Dynamic_programming.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 391. HTTP
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/391_HTTP.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

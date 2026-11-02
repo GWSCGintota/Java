@@ -1,5 +1,7 @@
 # 315. Maven repositories
 
+[Coding practice →](../../code_practice/21_Build_Tools/315_Maven_repositories.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

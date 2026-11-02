@@ -1,5 +1,7 @@
 # 111. Exception propagation
 
+[Coding practice →](../../code_practice/07_Exception_Handling/111_Exception_propagation.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

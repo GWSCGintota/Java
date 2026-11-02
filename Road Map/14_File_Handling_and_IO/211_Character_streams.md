@@ -1,5 +1,7 @@
 # 211. Character streams
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/211_Character_streams.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

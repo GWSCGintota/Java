@@ -1,5 +1,7 @@
 # 073. extends
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/073_extends.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

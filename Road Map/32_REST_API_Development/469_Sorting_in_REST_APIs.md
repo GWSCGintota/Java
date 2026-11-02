@@ -1,5 +1,7 @@
 # 469. Sorting in REST APIs
 
+[Coding practice →](../../code_practice/32_REST_API_Development/469_Sorting_in_REST_APIs.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

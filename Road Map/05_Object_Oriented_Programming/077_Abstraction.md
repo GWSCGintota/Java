@@ -1,5 +1,7 @@
 # 077. Abstraction
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/077_Abstraction.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

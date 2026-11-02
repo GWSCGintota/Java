@@ -1,5 +1,7 @@
 # 533. GitHub Actions
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/533_GitHub_Actions.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

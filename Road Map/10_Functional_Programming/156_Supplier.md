@@ -4,6 +4,8 @@
 
 # 156. Supplier
 
+[Coding practice →](../../code_practice/10_Functional_Programming/156_Supplier.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

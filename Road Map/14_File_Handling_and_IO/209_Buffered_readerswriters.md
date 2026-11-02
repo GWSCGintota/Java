@@ -1,5 +1,7 @@
 # 209. Buffered readers/writers
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/209_Buffered_readerswriters.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

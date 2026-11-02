@@ -1,5 +1,7 @@
 # 453. Transactions with JPA
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/453_Transactions_with_JPA.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

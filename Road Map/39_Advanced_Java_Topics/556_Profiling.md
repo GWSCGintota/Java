@@ -1,5 +1,7 @@
 # 556. Profiling
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/556_Profiling.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

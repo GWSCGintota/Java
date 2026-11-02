@@ -1,5 +1,7 @@
 # 270. Memory leaks
 
+[Coding practice →](../../code_practice/18_JVM_Internals/270_Memory_leaks.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

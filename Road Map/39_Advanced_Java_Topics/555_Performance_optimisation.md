@@ -1,5 +1,7 @@
 # 555. Performance optimisation
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/555_Performance_optimisation.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

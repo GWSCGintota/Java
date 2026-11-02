@@ -1,5 +1,7 @@
 # 145. Wildcards
 
+[Coding practice →](../../code_practice/09_Generics/145_Wildcards.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

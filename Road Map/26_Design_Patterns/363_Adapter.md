@@ -1,5 +1,7 @@
 # 363. Adapter
 
+[Coding practice →](../../code_practice/26_Design_Patterns/363_Adapter.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

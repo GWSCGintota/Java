@@ -1,5 +1,7 @@
 # 263. Soft references
 
+[Coding practice →](../../code_practice/18_JVM_Internals/263_Soft_references.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

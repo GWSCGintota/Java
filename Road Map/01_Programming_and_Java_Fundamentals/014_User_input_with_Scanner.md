@@ -1,5 +1,7 @@
 # 014. User input with Scanner
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/014_User_input_with_Scanner.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

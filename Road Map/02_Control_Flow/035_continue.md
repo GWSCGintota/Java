@@ -1,5 +1,7 @@
 # 035. continue
 
+[Coding practice →](../../code_practice/02_Control_Flow/035_continue.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

@@ -4,6 +4,8 @@
 
 # 159. Higher-order style programming
 
+[Coding practice →](../../code_practice/10_Functional_Programming/159_Higher-order_style_programming.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

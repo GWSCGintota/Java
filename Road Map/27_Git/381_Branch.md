@@ -1,5 +1,7 @@
 # 381. Branch
 
+[Coding practice →](../../code_practice/27_Git/381_Branch.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

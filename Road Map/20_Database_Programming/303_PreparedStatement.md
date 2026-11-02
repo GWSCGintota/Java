@@ -1,5 +1,7 @@
 # 303. PreparedStatement
 
+[Coding practice →](../../code_practice/20_Database_Programming/303_PreparedStatement.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

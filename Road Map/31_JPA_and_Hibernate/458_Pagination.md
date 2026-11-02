@@ -1,5 +1,7 @@
 # 458. Pagination
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/458_Pagination.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

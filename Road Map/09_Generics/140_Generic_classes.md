@@ -1,5 +1,7 @@
 # 140. Generic classes
 
+[Coding practice →](../../code_practice/09_Generics/140_Generic_classes.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

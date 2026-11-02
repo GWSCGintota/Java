@@ -1,5 +1,7 @@
 # 214. Serialization
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/214_Serialization.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

@@ -2,6 +2,8 @@
 
 # Java Lambda Expressions Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/151_Lambda_expressions.md)
+
 These exercises follow [151. Lambda expressions](../../Road%20Map/10_Functional_Programming/151_Lambda_expressions.md), progressing from lambda syntax to reusable behavior and stream processing. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run exercises independently. Place helper methods and nested classes inside `Main`, and example statements inside `main()`. Inputs are non-null unless handled explicitly; arithmetic uses small values.
@@ -250,5 +252,30 @@ Cannot read input
 | `Callable<V>` | Allow a checked exception | `call()` |
 
 **Reminder:** A lambda needs a functional interface target. It does not automatically run asynchronously, cache results, or make captured objects thread-safe.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — When is a lambda executed?
+
+**Answer:** When its functional operation is invoked, directly or by another API. Creating a lambda does not run its body and does not schedule it on another thread.
+
+### Interview Question 2 — What does effectively final capture mean?
+
+**Answer:** A captured local variable or enclosing parameter must not be reassigned after initialization. The object reached through a captured reference can still be mutable.
+
+### Interview Question 3 — How does this differ between a lambda and an anonymous class?
+
+**Answer:** A lambda uses the enclosing meaning of this and super. An anonymous class introduces its own instance and meaning of this.
+
+### Interview Question 4 — Can a lambda throw a checked exception?
+
+**Answer:** Yes, if its target operation declares a compatible checked exception, or if the body handles the exception itself. Callable permits checked exceptions; Supplier does not declare them.
+
+### Interview Question 5 — When should a lambda become a named method?
+
+**Answer:** Extract it when several statements, branching, reuse, or error handling make the intent difficult to read at the call site. Use a short lambda or method reference to the extracted method.
+
 
 [← 150. Functional interfaces](150_Functional_interfaces.md) | [Course Index](../README.md) | [152. Method references →](152_Method_references.md)

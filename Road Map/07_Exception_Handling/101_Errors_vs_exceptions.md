@@ -1,5 +1,7 @@
 # 101. Errors vs exceptions
 
+[Coding practice →](../../code_practice/07_Exception_Handling/101_Errors_vs_exceptions.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 505. Distributed systems basics
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/505_Distributed_systems_basics.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

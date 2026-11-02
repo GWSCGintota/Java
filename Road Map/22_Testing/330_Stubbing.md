@@ -1,5 +1,7 @@
 # 330. Stubbing
 
+[Coding practice →](../../code_practice/22_Testing/330_Stubbing.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

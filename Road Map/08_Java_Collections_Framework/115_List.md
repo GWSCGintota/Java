@@ -1,5 +1,7 @@
 # 115. List
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/115_List.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

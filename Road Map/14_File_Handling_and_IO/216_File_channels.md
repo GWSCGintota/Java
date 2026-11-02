@@ -1,5 +1,7 @@
 # 216. File channels
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/216_File_channels.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 134. Sorting collections
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/134_Sorting_collections.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

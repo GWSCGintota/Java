@@ -1,5 +1,7 @@
 # 484. OAuth 2.0
 
+[Coding practice →](../../code_practice/33_Security/484_OAuth_2.0.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 029. Modern switch expressions
 
+[Coding practice →](../../code_practice/02_Control_Flow/029_Modern_switch_expressions.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

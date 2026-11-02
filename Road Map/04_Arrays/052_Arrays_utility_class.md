@@ -1,5 +1,7 @@
 # 052. Arrays utility class
 
+[Coding practice →](../../code_practice/04_Arrays/052_Arrays_utility_class.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

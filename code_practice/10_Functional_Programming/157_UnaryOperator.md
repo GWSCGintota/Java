@@ -2,6 +2,8 @@
 
 # Java UnaryOperator Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/157_UnaryOperator.md)
+
 These exercises follow [157. UnaryOperator](../../Road%20Map/10_Functional_Programming/157_UnaryOperator.md), progressing from same-type transformations to composition, repetition, and immutable updates. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run exercises independently. Put helpers and nested classes inside `Main`, and example statements inside `main()`. Inputs are non-null unless specified; arithmetic uses small values except in the explicit overflow test.
@@ -260,5 +262,30 @@ Overflow
 | `Math.multiplyExact()` | Detect multiplication overflow | Exact square |
 
 **Reminder:** Generic operator composition returns `Function`. Atomic update APIs may retry their operators, so those callbacks should avoid external side effects.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — What is the shape of UnaryOperator<T>?
+
+**Answer:** It accepts T and returns T, extending Function<T, T>. It does not require mutation: returning a new immutable instance also satisfies the contract.
+
+### Interview Question 2 — Why does generic operator composition return Function?
+
+**Answer:** UnaryOperator inherits compose and andThen from Function. Their declared result is Function, even when both input stages are unary operators. Adapt the result explicitly if an operator target is needed.
+
+### Interview Question 3 — How does replaceAll differ from stream mapping?
+
+**Answer:** List.replaceAll replaces elements in the existing list. Mapping followed by collection builds a separate result list, although a mapper can still mutate objects if written to do so.
+
+### Interview Question 4 — What does UnaryOperator.identity preserve?
+
+**Answer:** The exact input value or reference. It is an identity transformation, not a clone or a deep copy.
+
+### Interview Question 5 — Why should atomic update operators avoid external effects?
+
+**Answer:** Atomic update methods may retry their callbacks after contention. Logging, sending events, or changing unrelated state in such callbacks could happen more than once.
+
 
 [← 156. Supplier](156_Supplier.md) | [Course Index](../README.md) | [158. BinaryOperator →](158_BinaryOperator.md)

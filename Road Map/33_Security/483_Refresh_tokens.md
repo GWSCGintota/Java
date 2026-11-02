@@ -1,5 +1,7 @@
 # 483. Refresh tokens
 
+[Coding practice →](../../code_practice/33_Security/483_Refresh_tokens.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

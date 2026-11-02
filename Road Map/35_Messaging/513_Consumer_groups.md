@@ -1,5 +1,7 @@
 # 513. Consumer groups
 
+[Coding practice →](../../code_practice/35_Messaging/513_Consumer_groups.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

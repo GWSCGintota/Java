@@ -1,5 +1,7 @@
 # 099. Pattern matching with switch
 
+[Coding practice →](../../code_practice/06_Enums_Records_and_Modern_Java_Types/099_Pattern_matching_with_switch.md)
+
 **Section:** Enums, Records and Modern Java Types  
 **Level:** Beginner
 

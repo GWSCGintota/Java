@@ -1,5 +1,7 @@
 # 547. Creating custom annotations
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/547_Creating_custom_annotations.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 106. Multiple catch
 
+[Coding practice →](../../code_practice/07_Exception_Handling/106_Multiple_catch.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

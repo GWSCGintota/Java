@@ -1,5 +1,7 @@
 # 072. Inheritance
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/072_Inheritance.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 128. ArrayDeque
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/128_ArrayDeque.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 507. Event-driven architecture
 
+[Coding practice →](../../code_practice/35_Messaging/507_Event-driven_architecture.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

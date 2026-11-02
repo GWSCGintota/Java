@@ -1,5 +1,7 @@
 # 516. Caching concepts
 
+[Coding practice →](../../code_practice/36_Caching/516_Caching_concepts.md)
+
 **Section:** Caching  
 **Level:** Advanced / Professional
 

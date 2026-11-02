@@ -1,5 +1,7 @@
 # 549. Class loaders in advanced Java
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/549_Class_loaders_in_advanced_Java.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

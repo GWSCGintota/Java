@@ -1,5 +1,7 @@
 # 255. Stack memory
 
+[Coding practice →](../../code_practice/18_JVM_Internals/255_Stack_memory.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

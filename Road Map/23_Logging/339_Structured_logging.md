@@ -1,5 +1,7 @@
 # 339. Structured logging
 
+[Coding practice →](../../code_practice/23_Logging/339_Structured_logging.md)
+
 **Section:** Logging  
 **Level:** Intermediate
 

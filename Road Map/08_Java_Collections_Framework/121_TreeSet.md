@@ -1,5 +1,7 @@
 # 121. TreeSet
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/121_TreeSet.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

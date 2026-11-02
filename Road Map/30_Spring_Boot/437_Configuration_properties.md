@@ -1,5 +1,7 @@
 # 437. Configuration properties
 
+[Coding practice →](../../code_practice/30_Spring_Boot/437_Configuration_properties.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

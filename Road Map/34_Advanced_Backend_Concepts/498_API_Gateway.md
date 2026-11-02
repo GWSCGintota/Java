@@ -1,5 +1,7 @@
 # 498. API Gateway
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/498_API_Gateway.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

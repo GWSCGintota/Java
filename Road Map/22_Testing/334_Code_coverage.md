@@ -1,5 +1,7 @@
 # 334. Code coverage
 
+[Coding practice →](../../code_practice/22_Testing/334_Code_coverage.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

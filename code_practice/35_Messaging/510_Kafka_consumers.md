@@ -1,1 +1,3 @@
+[← Road Map lesson](../../Road%20Map/35_Messaging/510_Kafka_consumers.md)
+
 [← 509. Kafka producers](509_Kafka_producers.md) | [Course Index](../README.md) | [511. Kafka topics →](511_Kafka_topics.md)

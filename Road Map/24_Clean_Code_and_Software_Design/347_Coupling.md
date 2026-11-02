@@ -1,5 +1,7 @@
 # 347. Coupling
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/347_Coupling.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

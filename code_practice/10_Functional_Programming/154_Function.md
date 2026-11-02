@@ -2,6 +2,8 @@
 
 # Java Function Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/154_Function.md)
+
 These exercises follow [154. Function](../../Road%20Map/10_Functional_Programming/154_Function.md), progressing from basic transformations to generic mapping and dynamic function composition. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Snippets assume `java.util.*`, `java.util.function.*`, and `java.util.stream.Collectors` imports. Place statements inside `main()` and helper methods inside the enclosing class. Run each exercise independently. Inputs are non-null unless a task specifies otherwise; numeric inputs are small enough to avoid overflow.
@@ -316,5 +318,30 @@ Java
 | `<T, R>` | Make transformation generic | `<T, R> List<R> transform(...)` |
 
 **Reminder:** A function does not automatically validate input, copy objects, cache results, or handle exceptions. Define these policies explicitly when required.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — How do compose and andThen differ?
+
+**Answer:** f.compose(g) applies g first and then f. f.andThen(g) applies f first and then g. Intermediate result types must be compatible with the next input type.
+
+### Interview Question 2 — Does Function.identity create a copy?
+
+**Answer:** No. It returns the same input, including the same object reference or null. Copying requires an explicit transformation with a defined copy depth.
+
+### Interview Question 3 — What happens if a composed stage throws?
+
+**Answer:** The exception propagates and subsequent stages are skipped. Composition does not provide exception recovery, rollback, caching, or asynchronous execution.
+
+### Interview Question 4 — How do Function and UnaryOperator differ?
+
+**Answer:** Function<T, R> permits different input and result types. UnaryOperator<T> specializes the same-type case by extending Function<T, T>.
+
+### Interview Question 5 — Why use primitive function specializations?
+
+**Answer:** They express primitive parameters or results without boxing for those positions. They are separate interfaces with methods such as applyAsInt, and their composition APIs differ.
+
 
 [← 153. Predicate](153_Predicate.md) | [Course Index](../README.md) | [155. Consumer →](155_Consumer.md)

@@ -1,5 +1,7 @@
 # 309. SQL injection prevention
 
+[Coding practice →](../../code_practice/20_Database_Programming/309_SQL_injection_prevention.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 563. WebSockets
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/563_WebSockets.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

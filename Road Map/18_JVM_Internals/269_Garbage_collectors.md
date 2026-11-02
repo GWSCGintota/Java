@@ -1,5 +1,7 @@
 # 269. Garbage collectors
 
+[Coding practice →](../../code_practice/18_JVM_Internals/269_Garbage_collectors.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

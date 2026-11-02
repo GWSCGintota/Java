@@ -1,5 +1,7 @@
 # 275. Arrays as a data structure
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/275_Arrays_as_a_data_structure.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

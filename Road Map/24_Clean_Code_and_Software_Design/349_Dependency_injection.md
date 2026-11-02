@@ -1,5 +1,7 @@
 # 349. Dependency injection
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/349_Dependency_injection.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

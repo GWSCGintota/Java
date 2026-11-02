@@ -1,5 +1,7 @@
 # 239. Java Memory Model
 
+[Coding practice →](../../code_practice/16_Multithreading/239_Java_Memory_Model.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

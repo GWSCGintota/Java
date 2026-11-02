@@ -1,5 +1,7 @@
 # 332. Integration testing
 
+[Coding practice →](../../code_practice/22_Testing/332_Integration_testing.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

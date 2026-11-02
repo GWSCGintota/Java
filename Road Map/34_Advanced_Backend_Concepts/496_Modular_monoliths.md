@@ -1,5 +1,7 @@
 # 496. Modular monoliths
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/496_Modular_monoliths.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

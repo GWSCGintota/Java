@@ -1,5 +1,7 @@
 # 142. Generic interfaces
 
+[Coding practice →](../../code_practice/09_Generics/142_Generic_interfaces.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 266. Bytecode
 
+[Coding practice →](../../code_practice/18_JVM_Internals/266_Bytecode.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

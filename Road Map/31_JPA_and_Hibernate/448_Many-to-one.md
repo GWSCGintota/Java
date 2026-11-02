@@ -1,5 +1,7 @@
 # 448. Many-to-one
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/448_Many-to-one.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

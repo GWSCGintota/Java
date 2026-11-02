@@ -1,5 +1,7 @@
 # 268. JVM optimisation
 
+[Coding practice →](../../code_practice/18_JVM_Internals/268_JVM_optimisation.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

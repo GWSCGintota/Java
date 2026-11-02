@@ -1,5 +1,7 @@
 # 323. JUnit
 
+[Coding practice →](../../code_practice/22_Testing/323_JUnit.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

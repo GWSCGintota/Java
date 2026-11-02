@@ -1,5 +1,7 @@
 # 395. POST
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/395_POST.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

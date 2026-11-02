@@ -1,5 +1,7 @@
 # 457. Repository interfaces
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/457_Repository_interfaces.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

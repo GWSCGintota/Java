@@ -1,5 +1,7 @@
 # 193. LocalTime
 
+[Coding practice →](../../code_practice/13_Date_and_Time_API/193_LocalTime.md)
+
 **Section:** Date and Time API  
 **Level:** Beginner → Intermediate
 

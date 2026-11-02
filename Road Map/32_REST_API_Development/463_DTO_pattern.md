@@ -1,5 +1,7 @@
 # 463. DTO pattern
 
+[Coding practice →](../../code_practice/32_REST_API_Development/463_DTO_pattern.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

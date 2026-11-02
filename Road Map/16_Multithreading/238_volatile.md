@@ -1,5 +1,7 @@
 # 238. volatile
 
+[Coding practice →](../../code_practice/16_Multithreading/238_volatile.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

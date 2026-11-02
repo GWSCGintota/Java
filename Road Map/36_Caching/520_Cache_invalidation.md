@@ -1,5 +1,7 @@
 # 520. Cache invalidation
 
+[Coding practice →](../../code_practice/36_Caching/520_Cache_invalidation.md)
+
 **Section:** Caching  
 **Level:** Advanced / Professional
 

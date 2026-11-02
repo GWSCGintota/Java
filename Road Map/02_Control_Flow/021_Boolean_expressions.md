@@ -1,5 +1,7 @@
 # 021. Boolean expressions
 
+[Coding practice →](../../code_practice/02_Control_Flow/021_Boolean_expressions.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

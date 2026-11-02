@@ -1,5 +1,7 @@
 # 204. Path
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/204_Path.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

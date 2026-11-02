@@ -1,5 +1,7 @@
 # 009. Constants with final
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/009_Constants_with_final.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

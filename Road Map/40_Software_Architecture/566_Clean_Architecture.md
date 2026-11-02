@@ -1,5 +1,7 @@
 # 566. Clean Architecture
 
+[Coding practice →](../../code_practice/40_Software_Architecture/566_Clean_Architecture.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

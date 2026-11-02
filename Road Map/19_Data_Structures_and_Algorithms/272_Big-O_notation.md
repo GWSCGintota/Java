@@ -1,5 +1,7 @@
 # 272. Big-O notation
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/272_Big-O_notation.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

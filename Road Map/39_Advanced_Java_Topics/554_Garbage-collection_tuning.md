@@ -1,5 +1,7 @@
 # 554. Garbage-collection tuning
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/554_Garbage-collection_tuning.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

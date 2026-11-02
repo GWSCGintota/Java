@@ -1,5 +1,7 @@
 # 536. Deploying Java applications
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/536_Deploying_Java_applications.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

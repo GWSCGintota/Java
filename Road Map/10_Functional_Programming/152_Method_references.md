@@ -4,6 +4,8 @@
 
 # 152. Method references
 
+[Coding practice →](../../code_practice/10_Functional_Programming/152_Method_references.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

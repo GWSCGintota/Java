@@ -1,5 +1,7 @@
 # 022. Comparison operators
 
+[Coding practice →](../../code_practice/02_Control_Flow/022_Comparison_operators.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

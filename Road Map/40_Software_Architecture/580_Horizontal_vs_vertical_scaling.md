@@ -1,5 +1,7 @@
 # 580. Horizontal vs vertical scaling
 
+[Coding practice →](../../code_practice/40_Software_Architecture/580_Horizontal_vs_vertical_scaling.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

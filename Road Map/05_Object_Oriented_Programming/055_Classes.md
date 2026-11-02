@@ -1,5 +1,7 @@
 # 055. Classes
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/055_Classes.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

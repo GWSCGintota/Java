@@ -1,5 +1,7 @@
 # 567. Ports and Adapters
 
+[Coding practice →](../../code_practice/40_Software_Architecture/567_Ports_and_Adapters.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

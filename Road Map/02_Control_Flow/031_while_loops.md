@@ -1,5 +1,7 @@
 # 031. while loops
 
+[Coding practice →](../../code_practice/02_Control_Flow/031_while_loops.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

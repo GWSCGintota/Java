@@ -1,5 +1,7 @@
 # 562. HTTP clients
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/562_HTTP_clients.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

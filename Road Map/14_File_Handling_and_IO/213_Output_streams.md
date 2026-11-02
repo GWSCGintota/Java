@@ -1,5 +1,7 @@
 # 213. Output streams
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/213_Output_streams.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

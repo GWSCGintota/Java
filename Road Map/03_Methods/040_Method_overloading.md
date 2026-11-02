@@ -1,5 +1,7 @@
 # 040. Method overloading
 
+[Coding practice →](../../code_practice/03_Methods/040_Method_overloading.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

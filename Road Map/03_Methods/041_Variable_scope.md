@@ -1,5 +1,7 @@
 # 041. Variable scope
 
+[Coding practice →](../../code_practice/03_Methods/041_Variable_scope.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

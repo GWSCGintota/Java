@@ -1,5 +1,7 @@
 # 039. Return values
 
+[Coding practice →](../../code_practice/03_Methods/039_Return_values.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

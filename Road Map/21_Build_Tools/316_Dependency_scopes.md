@@ -1,5 +1,7 @@
 # 316. Dependency scopes
 
+[Coding practice →](../../code_practice/21_Build_Tools/316_Dependency_scopes.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

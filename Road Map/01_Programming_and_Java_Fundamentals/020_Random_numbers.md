@@ -1,5 +1,7 @@
 # 020. Random numbers
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/020_Random_numbers.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 506. Message queues
 
+[Coding practice →](../../code_practice/35_Messaging/506_Message_queues.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

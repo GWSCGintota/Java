@@ -1,5 +1,7 @@
 # 143. Type parameters
 
+[Coding practice →](../../code_practice/09_Generics/143_Type_parameters.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

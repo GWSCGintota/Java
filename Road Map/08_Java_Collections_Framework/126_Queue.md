@@ -1,5 +1,7 @@
 # 126. Queue
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/126_Queue.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

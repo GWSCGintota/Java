@@ -1,5 +1,7 @@
 # 518. Redis
 
+[Coding practice →](../../code_practice/36_Caching/518_Redis.md)
+
 **Section:** Caching  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 568. Domain-Driven Design
 
+[Coding practice →](../../code_practice/40_Software_Architecture/568_Domain-Driven_Design.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

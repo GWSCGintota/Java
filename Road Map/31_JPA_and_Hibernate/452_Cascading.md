@@ -1,5 +1,7 @@
 # 452. Cascading
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/452_Cascading.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

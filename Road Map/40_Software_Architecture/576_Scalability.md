@@ -1,5 +1,7 @@
 # 576. Scalability
 
+[Coding practice →](../../code_practice/40_Software_Architecture/576_Scalability.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

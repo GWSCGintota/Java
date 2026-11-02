@@ -1,5 +1,7 @@
 # 477. Password hashing
 
+[Coding practice →](../../code_practice/33_Security/477_Password_hashing.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

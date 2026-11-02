@@ -1,5 +1,7 @@
 # 375. Iterator pattern
 
+[Coding practice →](../../code_practice/26_Design_Patterns/375_Iterator_pattern.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

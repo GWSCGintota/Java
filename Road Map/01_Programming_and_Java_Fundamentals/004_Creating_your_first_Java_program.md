@@ -1,5 +1,7 @@
 # 004. Creating your first Java program
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/004_Creating_your_first_Java_program.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

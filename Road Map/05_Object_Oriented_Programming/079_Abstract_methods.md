@@ -1,5 +1,7 @@
 # 079. Abstract methods
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/079_Abstract_methods.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

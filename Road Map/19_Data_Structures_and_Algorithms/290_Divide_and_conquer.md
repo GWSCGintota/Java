@@ -1,5 +1,7 @@
 # 290. Divide and conquer
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/290_Divide_and_conquer.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

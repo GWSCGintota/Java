@@ -1,5 +1,7 @@
 # 575. CAP theorem
 
+[Coding practice →](../../code_practice/40_Software_Architecture/575_CAP_theorem.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 356. Interface Segregation Principle
 
+[Coding practice →](../../code_practice/25_SOLID_Principles/356_Interface_Segregation_Principle.md)
+
 **Section:** SOLID Principles  
 **Level:** Intermediate
 

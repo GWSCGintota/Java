@@ -1,5 +1,7 @@
 # 287. Searching algorithms
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/287_Searching_algorithms.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

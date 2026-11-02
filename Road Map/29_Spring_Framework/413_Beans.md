@@ -1,5 +1,7 @@
 # 413. Beans
 
+[Coding practice →](../../code_practice/29_Spring_Framework/413_Beans.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

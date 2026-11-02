@@ -1,5 +1,7 @@
 # 032. do-while
 
+[Coding practice →](../../code_practice/02_Control_Flow/032_do-while.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

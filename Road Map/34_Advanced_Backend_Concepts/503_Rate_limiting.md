@@ -1,5 +1,7 @@
 # 503. Rate limiting
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/503_Rate_limiting.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 117. LinkedList
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/117_LinkedList.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

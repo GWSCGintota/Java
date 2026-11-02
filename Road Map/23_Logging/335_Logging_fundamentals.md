@@ -1,5 +1,7 @@
 # 335. Logging fundamentals
 
+[Coding practice →](../../code_practice/23_Logging/335_Logging_fundamentals.md)
+
 **Section:** Logging  
 **Level:** Intermediate
 

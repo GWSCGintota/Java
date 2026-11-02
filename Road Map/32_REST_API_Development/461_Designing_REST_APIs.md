@@ -1,5 +1,7 @@
 # 461. Designing REST APIs
 
+[Coding practice →](../../code_practice/32_REST_API_Development/461_Designing_REST_APIs.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

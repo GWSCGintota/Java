@@ -1,5 +1,7 @@
 # 494. Service layer pattern
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/494_Service_layer_pattern.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

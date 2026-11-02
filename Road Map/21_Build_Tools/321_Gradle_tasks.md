@@ -1,5 +1,7 @@
 # 321. Gradle tasks
 
+[Coding practice →](../../code_practice/21_Build_Tools/321_Gradle_tasks.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

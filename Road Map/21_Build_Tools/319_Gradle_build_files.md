@@ -1,5 +1,7 @@
 # 319. Gradle build files
 
+[Coding practice →](../../code_practice/21_Build_Tools/319_Gradle_build_files.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

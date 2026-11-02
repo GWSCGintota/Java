@@ -1,5 +1,7 @@
 # 242. Callable
 
+[Coding practice →](../../code_practice/17_Concurrency_API/242_Callable.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

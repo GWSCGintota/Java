@@ -1,5 +1,7 @@
 # 065. Getters and setters
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/065_Getters_and_setters.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

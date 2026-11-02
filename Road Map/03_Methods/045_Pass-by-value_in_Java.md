@@ -1,5 +1,7 @@
 # 045. Pass-by-value in Java
 
+[Coding practice →](../../code_practice/03_Methods/045_Pass-by-value_in_Java.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

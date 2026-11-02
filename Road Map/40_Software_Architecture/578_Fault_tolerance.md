@@ -1,5 +1,7 @@
 # 578. Fault tolerance
 
+[Coding practice →](../../code_practice/40_Software_Architecture/578_Fault_tolerance.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

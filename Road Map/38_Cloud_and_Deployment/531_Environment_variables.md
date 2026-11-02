@@ -1,5 +1,7 @@
 # 531. Environment variables
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/531_Environment_variables.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

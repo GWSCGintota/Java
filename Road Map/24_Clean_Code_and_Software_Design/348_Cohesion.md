@@ -1,5 +1,7 @@
 # 348. Cohesion
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/348_Cohesion.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

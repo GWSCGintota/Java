@@ -1,5 +1,7 @@
 # 302. Statement
 
+[Coding practice →](../../code_practice/20_Database_Programming/302_Statement.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

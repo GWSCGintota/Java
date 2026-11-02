@@ -1,5 +1,7 @@
 # 059. Constructors
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/059_Constructors.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 370. Observer
 
+[Coding practice →](../../code_practice/26_Design_Patterns/370_Observer.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

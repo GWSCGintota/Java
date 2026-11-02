@@ -1,5 +1,7 @@
 # 051. Arrays of objects
 
+[Coding practice →](../../code_practice/04_Arrays/051_Arrays_of_objects.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

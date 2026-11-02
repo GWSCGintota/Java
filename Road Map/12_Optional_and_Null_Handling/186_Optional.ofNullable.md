@@ -1,5 +1,7 @@
 # 186. Optional.ofNullable()
 
+[Coding practice →](../../code_practice/12_Optional_and_Null_Handling/186_Optional.ofNullable.md)
+
 **Section:** Optional and Null Handling  
 **Level:** Beginner → Intermediate
 

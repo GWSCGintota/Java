@@ -1,5 +1,7 @@
 # 113. Collections Framework
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/113_Collections_Framework.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 036. Creating methods
 
+[Coding practice →](../../code_practice/03_Methods/036_Creating_methods.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

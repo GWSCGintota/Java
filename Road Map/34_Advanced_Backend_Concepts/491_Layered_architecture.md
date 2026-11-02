@@ -1,5 +1,7 @@
 # 491. Layered architecture
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/491_Layered_architecture.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 074. Method overriding
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/074_Method_overriding.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

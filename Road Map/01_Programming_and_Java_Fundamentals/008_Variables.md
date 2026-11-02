@@ -1,5 +1,7 @@
 # 008. Variables
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/008_Variables.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

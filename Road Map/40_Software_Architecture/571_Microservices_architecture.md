@@ -1,5 +1,7 @@
 # 571. Microservices architecture
 
+[Coding practice →](../../code_practice/40_Software_Architecture/571_Microservices_architecture.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

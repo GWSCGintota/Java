@@ -1,5 +1,7 @@
 # 264. Class loading
 
+[Coding practice →](../../code_practice/18_JVM_Internals/264_Class_loading.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

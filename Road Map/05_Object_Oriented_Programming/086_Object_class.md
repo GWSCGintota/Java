@@ -1,5 +1,7 @@
 # 086. Object class
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/086_Object_class.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

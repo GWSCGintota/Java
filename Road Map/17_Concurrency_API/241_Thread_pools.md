@@ -1,5 +1,7 @@
 # 241. Thread pools
 
+[Coding practice →](../../code_practice/17_Concurrency_API/241_Thread_pools.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 075. super
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/075_super.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

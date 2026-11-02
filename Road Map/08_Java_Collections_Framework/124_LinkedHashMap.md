@@ -1,5 +1,7 @@
 # 124. LinkedHashMap
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/124_LinkedHashMap.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

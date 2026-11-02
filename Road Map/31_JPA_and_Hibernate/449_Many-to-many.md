@@ -1,5 +1,7 @@
 # 449. Many-to-many
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/449_Many-to-many.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

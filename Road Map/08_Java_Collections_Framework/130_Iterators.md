@@ -1,5 +1,7 @@
 # 130. Iterators
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/130_Iterators.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

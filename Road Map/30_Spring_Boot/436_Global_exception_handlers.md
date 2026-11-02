@@ -1,5 +1,7 @@
 # 436. Global exception handlers
 
+[Coding practice →](../../code_practice/30_Spring_Boot/436_Global_exception_handlers.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

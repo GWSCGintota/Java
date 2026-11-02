@@ -3,6 +3,8 @@
 
 # Java Predicate Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/153_Predicate.md)
+
 These exercises follow our practice conversation, progressing from basic predicates to generic filtering and dynamic predicate composition. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+ (`Collectors.toList()` is used for compatibility). Code snippets assume the relevant `java.util.*`, `java.util.function.Predicate`, and `java.util.stream.Collectors` imports unless shown otherwise.
@@ -373,6 +375,31 @@ David
 | `<T>` | Make filtering generic | `<T> List<T> filterItems(...)` |
 
 **Reminder:** `reduce()` is a Stream API method, **not** a Java keyword or a method on `Predicate` itself. In these exercises, it combines a stream of predicates into a single predicate.
+
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — Why use Predicate<T> rather than Function<T, Boolean>?
+
+**Answer:** Predicate directly expresses a boolean condition, returns primitive boolean from test, and provides logical composition through and, or, and negate.
+
+### Interview Question 2 — Do and and or short-circuit?
+
+**Answer:** Yes. and skips the second predicate when the first is false; or skips it when the first is true. Put null guards before predicates that dereference the input.
+
+### Interview Question 3 — What are the identities for dynamic AND and OR?
+
+**Answer:** An always-true predicate is neutral for AND; an always-false predicate is neutral for OR. A requirement to match all records for an empty OR list needs a separate explicit empty-list policy.
+
+### Interview Question 4 — How do filter and map differ?
+
+**Answer:** filter uses a Predicate to keep or discard elements. map uses a Function to transform elements into results, potentially of a different type.
+
+### Interview Question 5 — Is a predicate automatically pure or thread-safe?
+
+**Answer:** No. It can capture mutable state or produce effects. Stream predicates should generally be stateless and non-interfering; shared-state safety needs a separate design.
 
 
 [← 152. Method references](152_Method_references.md) | [Course Index](../README.md) | [154. Function →](154_Function.md)

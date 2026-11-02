@@ -1,5 +1,7 @@
 # Java Learning Roadmap — Beginner to Advanced
 
+[Coding practice →](../code_practice/README.md)
+
 This course pack contains **580 numbered Java learning topics**. Each topic has its own Markdown file, ordered from beginner fundamentals to advanced Java/backend/software architecture.
 
 ## How to use this pack

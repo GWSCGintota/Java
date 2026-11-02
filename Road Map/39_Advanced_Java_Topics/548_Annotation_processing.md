@@ -1,5 +1,7 @@
 # 548. Annotation processing
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/548_Annotation_processing.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

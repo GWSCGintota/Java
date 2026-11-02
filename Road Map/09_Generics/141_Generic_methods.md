@@ -1,5 +1,7 @@
 # 141. Generic methods
 
+[Coding practice →](../../code_practice/09_Generics/141_Generic_methods.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

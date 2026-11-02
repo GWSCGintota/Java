@@ -2,6 +2,8 @@
 
 # Java Method References Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/152_Method_references.md)
+
 These exercises follow [152. Method references](../../Road%20Map/10_Functional_Programming/152_Method_references.md), covering the four reference forms, target typing, and receiver timing. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run each question independently. Put statements inside `main()` and the nested class in Question 7 inside `Main`. Inputs are non-null unless stated otherwise.
@@ -250,5 +252,30 @@ A
 | `Callable<V>` | Permit checked failures | `reader::read` |
 
 **Reminder:** References do not bypass exception rules or automatically execute the referenced method. Keep lambdas when you need argument adjustment, extra logic, or explicit locale selection such as `text -> text.toUpperCase(Locale.ROOT)`.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — What are the four main method-reference forms?
+
+**Answer:** Static method references, bound instance references, unbound instance references, and constructor references. Array constructor references are a constructor form.
+
+### Interview Question 2 — What is the receiver in String::length?
+
+**Answer:** The functional input supplies the String receiver. For example, ToIntFunction<String> invokes length on its input rather than calling a static String method.
+
+### Interview Question 3 — When is a bound receiver evaluated?
+
+**Answer:** When the method reference is created. Reassigning the variable later does not change the captured receiver; a null bound receiver fails during reference creation.
+
+### Interview Question 4 — Can method references discard return values?
+
+**Answer:** Yes, when compatible with a void target. For example, Consumer<String> add = list::add discards the boolean returned by List.add.
+
+### Interview Question 5 — Are method references always interchangeable with lambdas?
+
+**Answer:** No. Target typing, checked exceptions, overload resolution, receiver evaluation timing, and additional argument logic all matter. Use whichever form preserves the required behavior and is clear.
+
 
 [← 151. Lambda expressions](151_Lambda_expressions.md) | [Course Index](../README.md) | [153. Predicate →](153_Predicate.md)

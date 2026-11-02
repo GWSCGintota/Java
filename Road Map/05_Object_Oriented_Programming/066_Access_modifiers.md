@@ -1,5 +1,7 @@
 # 066. Access modifiers
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/066_Access_modifiers.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

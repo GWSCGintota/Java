@@ -1,5 +1,7 @@
 # 012. Type casting
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/012_Type_casting.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

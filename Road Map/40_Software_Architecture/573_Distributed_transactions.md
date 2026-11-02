@@ -1,5 +1,7 @@
 # 573. Distributed transactions
 
+[Coding practice →](../../code_practice/40_Software_Architecture/573_Distributed_transactions.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

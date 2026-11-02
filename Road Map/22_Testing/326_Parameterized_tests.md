@@ -1,5 +1,7 @@
 # 326. Parameterized tests
 
+[Coding practice →](../../code_practice/22_Testing/326_Parameterized_tests.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

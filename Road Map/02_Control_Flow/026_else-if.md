@@ -1,5 +1,7 @@
 # 026. else-if
 
+[Coding practice →](../../code_practice/02_Control_Flow/026_else-if.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

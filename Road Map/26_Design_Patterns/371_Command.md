@@ -1,5 +1,7 @@
 # 371. Command
 
+[Coding practice →](../../code_practice/26_Design_Patterns/371_Command.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

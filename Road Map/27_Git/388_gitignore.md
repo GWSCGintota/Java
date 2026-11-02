@@ -1,5 +1,7 @@
 # 388. .gitignore
 
+[Coding practice →](../../code_practice/27_Git/388_gitignore.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

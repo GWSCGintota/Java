@@ -1,5 +1,7 @@
 # 087. toString()
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/087_toString.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

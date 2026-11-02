@@ -1,5 +1,7 @@
 # 359. Factory Method
 
+[Coding practice →](../../code_practice/26_Design_Patterns/359_Factory_Method.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

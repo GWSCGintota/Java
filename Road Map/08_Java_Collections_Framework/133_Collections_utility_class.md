@@ -1,5 +1,7 @@
 # 133. Collections utility class
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/133_Collections_utility_class.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

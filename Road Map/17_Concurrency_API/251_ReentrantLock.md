@@ -1,5 +1,7 @@
 # 251. ReentrantLock
 
+[Coding practice →](../../code_practice/17_Concurrency_API/251_ReentrantLock.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

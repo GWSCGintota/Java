@@ -1,5 +1,7 @@
 # 043. Static methods
 
+[Coding practice →](../../code_practice/03_Methods/043_Static_methods.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

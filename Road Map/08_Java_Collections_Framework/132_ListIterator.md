@@ -1,5 +1,7 @@
 # 132. ListIterator
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/132_ListIterator.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

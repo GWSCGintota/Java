@@ -1,5 +1,7 @@
 # 233. synchronized
 
+[Coding practice →](../../code_practice/16_Multithreading/233_synchronized.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

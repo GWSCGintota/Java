@@ -1,5 +1,7 @@
 # 476. Authorization in Spring Security
 
+[Coding practice →](../../code_practice/33_Security/476_Authorization_in_Spring_Security.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

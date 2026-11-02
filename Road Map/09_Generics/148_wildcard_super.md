@@ -1,5 +1,7 @@
 # 148. ? super
 
+[Coding practice →](../../code_practice/09_Generics/148_wildcard_super.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

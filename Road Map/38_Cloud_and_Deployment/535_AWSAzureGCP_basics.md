@@ -1,5 +1,7 @@
 # 535. AWS/Azure/GCP basics
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/535_AWSAzureGCP_basics.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

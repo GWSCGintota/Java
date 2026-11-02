@@ -4,6 +4,8 @@
 
 # 158. BinaryOperator
 
+[Coding practice →](../../code_practice/10_Functional_Programming/158_BinaryOperator.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

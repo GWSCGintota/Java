@@ -1,5 +1,7 @@
 # 139. Generics
 
+[Coding practice →](../../code_practice/09_Generics/139_Generics.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

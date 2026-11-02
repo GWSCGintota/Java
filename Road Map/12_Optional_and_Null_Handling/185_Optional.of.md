@@ -1,5 +1,7 @@
 # 185. Optional.of()
 
+[Coding practice →](../../code_practice/12_Optional_and_Null_Handling/185_Optional.of.md)
+
 **Section:** Optional and Null Handling  
 **Level:** Beginner → Intermediate
 

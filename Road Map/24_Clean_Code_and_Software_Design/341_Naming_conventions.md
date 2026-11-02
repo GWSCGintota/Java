@@ -1,5 +1,7 @@
 # 341. Naming conventions
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/341_Naming_conventions.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

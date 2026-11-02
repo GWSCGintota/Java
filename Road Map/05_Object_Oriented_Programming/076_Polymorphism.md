@@ -1,5 +1,7 @@
 # 076. Polymorphism
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/076_Polymorphism.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

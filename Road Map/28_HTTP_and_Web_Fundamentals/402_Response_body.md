@@ -1,5 +1,7 @@
 # 402. Response body
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/402_Response_body.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

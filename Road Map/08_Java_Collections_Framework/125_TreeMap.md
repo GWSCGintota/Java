@@ -1,5 +1,7 @@
 # 125. TreeMap
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/125_TreeMap.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

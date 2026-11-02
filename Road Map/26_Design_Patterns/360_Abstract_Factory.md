@@ -1,5 +1,7 @@
 # 360. Abstract Factory
 
+[Coding practice →](../../code_practice/26_Design_Patterns/360_Abstract_Factory.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

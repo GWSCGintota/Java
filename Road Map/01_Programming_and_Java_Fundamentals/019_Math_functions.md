@@ -1,5 +1,7 @@
 # 019. Math functions
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/019_Math_functions.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 369. Strategy
 
+[Coding practice →](../../code_practice/26_Design_Patterns/369_Strategy.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

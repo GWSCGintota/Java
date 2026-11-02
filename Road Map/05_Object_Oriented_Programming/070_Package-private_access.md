@@ -1,5 +1,7 @@
 # 070. Package-private access
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/070_Package-private_access.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 486. CORS
 
+[Coding practice →](../../code_practice/33_Security/486_CORS.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

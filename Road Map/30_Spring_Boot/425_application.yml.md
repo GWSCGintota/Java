@@ -1,5 +1,7 @@
 # 425. application.yml
 
+[Coding practice →](../../code_practice/30_Spring_Boot/425_application.yml.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

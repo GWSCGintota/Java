@@ -1,5 +1,7 @@
 # 560. Java networking
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/560_Java_networking.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

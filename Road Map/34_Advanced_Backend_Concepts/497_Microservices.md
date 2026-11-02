@@ -1,5 +1,7 @@
 # 497. Microservices
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/497_Microservices.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

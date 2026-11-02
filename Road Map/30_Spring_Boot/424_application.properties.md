@@ -1,5 +1,7 @@
 # 424. application.properties
 
+[Coding practice →](../../code_practice/30_Spring_Boot/424_application.properties.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

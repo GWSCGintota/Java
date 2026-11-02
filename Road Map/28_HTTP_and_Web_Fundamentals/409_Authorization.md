@@ -1,5 +1,7 @@
 # 409. Authorization
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/409_Authorization.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

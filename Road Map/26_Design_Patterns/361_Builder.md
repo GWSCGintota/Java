@@ -1,5 +1,7 @@
 # 361. Builder
 
+[Coding practice →](../../code_practice/26_Design_Patterns/361_Builder.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

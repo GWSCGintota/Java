@@ -1,5 +1,7 @@
 # 033. Enhanced for loop
 
+[Coding practice →](../../code_practice/02_Control_Flow/033_Enhanced_for_loop.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

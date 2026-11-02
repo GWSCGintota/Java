@@ -1,5 +1,7 @@
 # 267. JIT compilation
 
+[Coding practice →](../../code_practice/18_JVM_Internals/267_JIT_compilation.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

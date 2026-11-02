@@ -1,5 +1,7 @@
 # 414. Application Context
 
+[Coding practice →](../../code_practice/29_Spring_Framework/414_Application_Context.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

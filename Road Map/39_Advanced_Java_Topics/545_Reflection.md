@@ -1,5 +1,7 @@
 # 545. Reflection
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/545_Reflection.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

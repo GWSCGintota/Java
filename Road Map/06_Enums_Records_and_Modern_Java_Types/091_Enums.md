@@ -1,5 +1,7 @@
 # 091. Enums
 
+[Coding practice →](../../code_practice/06_Enums_Records_and_Modern_Java_Types/091_Enums.md)
+
 **Section:** Enums, Records and Modern Java Types  
 **Level:** Beginner
 

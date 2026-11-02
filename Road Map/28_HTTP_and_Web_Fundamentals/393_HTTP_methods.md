@@ -1,5 +1,7 @@
 # 393. HTTP methods
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/393_HTTP_methods.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

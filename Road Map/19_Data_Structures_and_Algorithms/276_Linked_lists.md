@@ -1,5 +1,7 @@
 # 276. Linked lists
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/276_Linked_lists.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

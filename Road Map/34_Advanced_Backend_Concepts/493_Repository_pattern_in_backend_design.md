@@ -1,5 +1,7 @@
 # 493. Repository pattern in backend design
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/493_Repository_pattern_in_backend_design.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

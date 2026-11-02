@@ -1,5 +1,7 @@
 # 373. Template Method
 
+[Coding practice →](../../code_practice/26_Design_Patterns/373_Template_Method.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

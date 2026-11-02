@@ -1,5 +1,7 @@
 # 217. Regex fundamentals
 
+[Coding practice →](../../code_practice/15_Regular_Expressions/217_Regex_fundamentals.md)
+
 **Section:** Regular Expressions  
 **Level:** Beginner → Intermediate
 

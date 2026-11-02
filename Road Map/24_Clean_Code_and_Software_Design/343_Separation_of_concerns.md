@@ -1,5 +1,7 @@
 # 343. Separation of concerns
 
+[Coding practice →](../../code_practice/24_Clean_Code_and_Software_Design/343_Separation_of_concerns.md)
+
 **Section:** Clean Code and Software Design  
 **Level:** Intermediate
 

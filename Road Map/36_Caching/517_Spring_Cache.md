@@ -1,5 +1,7 @@
 # 517. Spring Cache
 
+[Coding practice →](../../code_practice/36_Caching/517_Spring_Cache.md)
+
 **Section:** Caching  
 **Level:** Advanced / Professional
 

@@ -1,1 +1,3 @@
+[← Road Map lesson](../../Road%20Map/40_Software_Architecture/565_Hexagonal_architecture.md)
+
 [← 564. Layered architecture in system design](564_Layered_architecture_in_system_design.md) | [Course Index](../README.md) | [566. Clean Architecture →](566_Clean_Architecture.md)

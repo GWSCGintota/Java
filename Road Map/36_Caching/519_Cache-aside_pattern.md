@@ -1,5 +1,7 @@
 # 519. Cache-aside pattern
 
+[Coding practice →](../../code_practice/36_Caching/519_Cache-aside_pattern.md)
+
 **Section:** Caching  
 **Level:** Advanced / Professional
 

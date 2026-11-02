@@ -1,5 +1,7 @@
 # 081. Multiple interfaces
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/081_Multiple_interfaces.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

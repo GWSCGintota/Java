@@ -1,5 +1,7 @@
 # 537. Load balancers
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/537_Load_balancers.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 384. Pull
 
+[Coding practice →](../../code_practice/27_Git/384_Pull.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

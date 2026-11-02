@@ -1,5 +1,7 @@
 # 447. One-to-many
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/447_One-to-many.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 256. Heap memory
 
+[Coding practice →](../../code_practice/18_JVM_Internals/256_Heap_memory.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

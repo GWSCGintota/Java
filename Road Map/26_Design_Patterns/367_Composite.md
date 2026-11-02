@@ -1,5 +1,7 @@
 # 367. Composite
 
+[Coding practice →](../../code_practice/26_Design_Patterns/367_Composite.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 510. Kafka consumers
 
+[Coding practice →](../../code_practice/35_Messaging/510_Kafka_consumers.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

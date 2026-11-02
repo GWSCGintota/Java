@@ -1,5 +1,7 @@
 # 329. Mocking
 
+[Coding practice →](../../code_practice/22_Testing/329_Mocking.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

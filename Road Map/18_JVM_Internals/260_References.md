@@ -1,5 +1,7 @@
 # 260. References
 
+[Coding practice →](../../code_practice/18_JVM_Internals/260_References.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

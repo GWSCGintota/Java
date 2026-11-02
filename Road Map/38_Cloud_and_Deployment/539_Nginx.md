@@ -1,5 +1,7 @@
 # 539. Nginx
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/539_Nginx.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

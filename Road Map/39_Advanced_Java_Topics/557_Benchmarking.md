@@ -1,5 +1,7 @@
 # 557. Benchmarking
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/557_Benchmarking.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

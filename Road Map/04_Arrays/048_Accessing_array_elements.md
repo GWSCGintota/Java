@@ -1,5 +1,7 @@
 # 048. Accessing array elements
 
+[Coding practice →](../../code_practice/04_Arrays/048_Accessing_array_elements.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 358. Singleton
 
+[Coding practice →](../../code_practice/26_Design_Patterns/358_Singleton.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 056. Objects
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/056_Objects.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

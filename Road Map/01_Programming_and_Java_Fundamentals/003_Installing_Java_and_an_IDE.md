@@ -1,5 +1,7 @@
 # 003. Installing Java and an IDE
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/003_Installing_Java_and_an_IDE.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

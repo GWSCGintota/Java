@@ -1,5 +1,7 @@
 # 502. Retry patterns
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/502_Retry_patterns.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

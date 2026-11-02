@@ -1,5 +1,7 @@
 # 443. Primary keys
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/443_Primary_keys.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

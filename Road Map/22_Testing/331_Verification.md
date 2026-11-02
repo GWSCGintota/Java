@@ -1,5 +1,7 @@
 # 331. Verification
 
+[Coding practice →](../../code_practice/22_Testing/331_Verification.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

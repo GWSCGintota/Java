@@ -1,5 +1,7 @@
 # 353. Single Responsibility Principle
 
+[Coding practice →](../../code_practice/25_SOLID_Principles/353_Single_Responsibility_Principle.md)
+
 **Section:** SOLID Principles  
 **Level:** Intermediate
 

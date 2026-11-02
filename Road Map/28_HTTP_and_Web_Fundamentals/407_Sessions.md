@@ -1,5 +1,7 @@
 # 407. Sessions
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/407_Sessions.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

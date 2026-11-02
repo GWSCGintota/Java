@@ -1,5 +1,7 @@
 # 355. Liskov Substitution Principle
 
+[Coding practice →](../../code_practice/25_SOLID_Principles/355_Liskov_Substitution_Principle.md)
+
 **Section:** SOLID Principles  
 **Level:** Intermediate
 

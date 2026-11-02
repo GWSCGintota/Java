@@ -1,5 +1,7 @@
 # 244. CompletableFuture
 
+[Coding practice →](../../code_practice/17_Concurrency_API/244_CompletableFuture.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 232. Thread safety
 
+[Coding practice →](../../code_practice/16_Multithreading/232_Thread_safety.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

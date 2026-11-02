@@ -1,5 +1,7 @@
 # 062. static
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/062_static.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

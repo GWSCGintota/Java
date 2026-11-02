@@ -1,5 +1,7 @@
 # 016. Strings
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/016_Strings.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

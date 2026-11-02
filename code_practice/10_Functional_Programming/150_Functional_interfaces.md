@@ -2,6 +2,8 @@
 
 # Java Functional Interfaces Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/150_Functional_interfaces.md)
+
 These exercises follow [150. Functional interfaces](../../Road%20Map/10_Functional_Programming/150_Functional_interfaces.md), progressing from custom contracts to reusable behavior. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*` and `java.util.function.*` imports. Run each question independently. Place interfaces outside `Main`, helper methods inside `Main`, and example statements inside `main()`. Inputs are non-null and arithmetic uses small values unless stated otherwise.
@@ -286,5 +288,30 @@ Hello, Ada
 | `IntBinaryOperator` | Combine primitive integers | `applyAsInt(a, b)` |
 
 **Reminder:** A lambda needs a functional interface target type. `var operation = (a, b) -> a + b` supplies no target type and does not compile.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — What makes an interface functional?
+
+**Answer:** It has one effective abstract operation after inheritance and compatible method declarations are considered. Default and static methods do not add abstract operations; declarations matching public Object methods are excluded.
+
+### Interview Question 2 — Is @FunctionalInterface required?
+
+**Answer:** No. It asks the compiler to verify the functional contract and documents intent. A valid functional interface can be used as a lambda target without the annotation.
+
+### Interview Question 3 — How do Function, Predicate, Consumer, and Supplier differ?
+
+**Answer:** Function transforms an input using apply; Predicate checks it using test; Consumer performs an action using accept; Supplier produces a value without input using get.
+
+### Interview Question 4 — Can a lambda have two unrelated abstract methods to implement?
+
+**Answer:** No. A single lambda supplies one functional operation. Split the contract into separate interfaces or implement a regular interface with a class.
+
+### Interview Question 5 — Why does a bare lambda need a target type?
+
+**Answer:** Its parameter types, result contract, and allowed checked exceptions come from a functional interface target supplied by assignment, a cast, or an invocation context.
+
 
 [← 149. Type erasure](../09_Generics/149_Type_erasure.md) | [Course Index](../README.md) | [151. Lambda expressions →](151_Lambda_expressions.md)

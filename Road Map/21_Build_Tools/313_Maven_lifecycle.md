@@ -1,5 +1,7 @@
 # 313. Maven lifecycle
 
+[Coding practice →](../../code_practice/21_Build_Tools/313_Maven_lifecycle.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

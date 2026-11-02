@@ -1,5 +1,7 @@
 # 419. @Controller
 
+[Coding practice →](../../code_practice/29_Spring_Framework/419_at_Controller.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

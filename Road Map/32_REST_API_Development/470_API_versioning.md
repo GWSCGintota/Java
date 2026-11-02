@@ -1,5 +1,7 @@
 # 470. API versioning
 
+[Coding practice →](../../code_practice/32_REST_API_Development/470_API_versioning.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

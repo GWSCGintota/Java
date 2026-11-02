@@ -1,5 +1,7 @@
 # 532. CI/CD
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/532_CICD.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 253. Virtual threads
 
+[Coding practice →](../../code_practice/17_Concurrency_API/253_Virtual_threads.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

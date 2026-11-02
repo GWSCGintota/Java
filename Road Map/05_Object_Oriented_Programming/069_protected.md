@@ -1,5 +1,7 @@
 # 069. protected
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/069_protected.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

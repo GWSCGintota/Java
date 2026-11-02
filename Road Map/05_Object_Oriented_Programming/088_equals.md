@@ -1,5 +1,7 @@
 # 088. equals()
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/088_equals.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

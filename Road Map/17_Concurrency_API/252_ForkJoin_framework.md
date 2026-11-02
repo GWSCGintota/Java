@@ -1,5 +1,7 @@
 # 252. Fork/Join framework
 
+[Coding practice →](../../code_practice/17_Concurrency_API/252_ForkJoin_framework.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 416. @Component
 
+[Coding practice →](../../code_practice/29_Spring_Framework/416_at_Component.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 543. Logs
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/543_Logs.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

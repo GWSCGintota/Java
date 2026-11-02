@@ -1,5 +1,7 @@
 # 291. Greedy algorithms
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/291_Greedy_algorithms.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

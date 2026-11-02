@@ -1,5 +1,7 @@
 # 320. Gradle dependencies
 
+[Coding practice →](../../code_practice/21_Build_Tools/320_Gradle_dependencies.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 501. Circuit breakers
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/501_Circuit_breakers.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

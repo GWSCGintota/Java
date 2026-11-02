@@ -1,5 +1,7 @@
 # 325. Test lifecycle
 
+[Coding practice →](../../code_practice/22_Testing/325_Test_lifecycle.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

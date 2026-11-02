@@ -1,5 +1,7 @@
 # 259. Objects in memory
 
+[Coding practice →](../../code_practice/18_JVM_Internals/259_Objects_in_memory.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 398. DELETE
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/398_DELETE.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

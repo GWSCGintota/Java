@@ -1,5 +1,7 @@
 # 037. Calling methods
 
+[Coding practice →](../../code_practice/03_Methods/037_Calling_methods.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

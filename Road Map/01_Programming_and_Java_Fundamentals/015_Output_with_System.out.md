@@ -1,5 +1,7 @@
 # 015. Output with System.out
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/015_Output_with_System.out.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

@@ -1,5 +1,7 @@
 # 399. HTTP status codes
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/399_HTTP_status_codes.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

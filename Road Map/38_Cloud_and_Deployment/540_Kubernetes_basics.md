@@ -1,5 +1,7 @@
 # 540. Kubernetes basics
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/540_Kubernetes_basics.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

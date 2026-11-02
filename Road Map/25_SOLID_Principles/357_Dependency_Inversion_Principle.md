@@ -1,5 +1,7 @@
 # 357. Dependency Inversion Principle
 
+[Coding practice →](../../code_practice/25_SOLID_Principles/357_Dependency_Inversion_Principle.md)
+
 **Section:** SOLID Principles  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 460. N+1 query problem
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/460_N1_query_problem.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

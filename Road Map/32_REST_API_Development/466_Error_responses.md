@@ -1,5 +1,7 @@
 # 466. Error responses
 
+[Coding practice →](../../code_practice/32_REST_API_Development/466_Error_responses.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 235. Deadlocks
 
+[Coding practice →](../../code_practice/16_Multithreading/235_Deadlocks.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

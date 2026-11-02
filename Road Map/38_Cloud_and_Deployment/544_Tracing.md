@@ -1,5 +1,7 @@
 # 544. Tracing
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/544_Tracing.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

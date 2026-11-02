@@ -1,5 +1,7 @@
 # 090. instanceof
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/090_instanceof.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

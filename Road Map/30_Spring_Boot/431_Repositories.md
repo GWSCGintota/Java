@@ -1,5 +1,7 @@
 # 431. Repositories
 
+[Coding practice →](../../code_practice/30_Spring_Boot/431_Repositories.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

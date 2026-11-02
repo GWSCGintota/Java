@@ -1,5 +1,7 @@
 # 374. Chain of Responsibility
 
+[Coding practice →](../../code_practice/26_Design_Patterns/374_Chain_of_Responsibility.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

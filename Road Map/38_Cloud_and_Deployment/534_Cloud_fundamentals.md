@@ -1,5 +1,7 @@
 # 534. Cloud fundamentals
 
+[Coding practice →](../../code_practice/38_Cloud_and_Deployment/534_Cloud_fundamentals.md)
+
 **Section:** Cloud & Deployment  
 **Level:** Advanced / Professional
 

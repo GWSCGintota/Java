@@ -1,5 +1,7 @@
 # 512. Partitions
 
+[Coding practice →](../../code_practice/35_Messaging/512_Partitions.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

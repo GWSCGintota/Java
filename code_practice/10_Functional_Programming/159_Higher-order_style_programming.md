@@ -2,6 +2,8 @@
 
 # Java Higher-order Programming Practice — 10 Coding Questions and Answers
 
+[← Road Map lesson](../../Road%20Map/10_Functional_Programming/159_Higher-order_style_programming.md)
+
 These exercises follow [159. Higher-order style programming](../../Road%20Map/10_Functional_Programming/159_Higher-order_style_programming.md), progressing from passing behavior to factories, pipelines, and wrappers. Each question includes a model solution and a short explanation.
 
 **Java version:** Java 8+. Assume `java.util.*`, `java.util.function.*`, and `java.util.stream.*` imports. Run questions independently. Place helper methods and nested classes inside `Main`, and example statements inside `main()`. Inputs and behavior references are non-null unless a task says otherwise. Arithmetic uses small values.
@@ -366,5 +368,30 @@ Calls: 3
 | Retry wrapper | Apply an explicit failure policy | Bounded transient retries |
 
 **Reminder:** Document when a wrapper runs its source, how often it runs, and how failures propagate. Wrapper order matters: memoizing a mapped supplier caches the mapped result, while mapping a memoized supplier reruns the mapper on each call. Keep resource-dependent callbacks within the resource's lifetime.
+
+---
+
+## Interview Questions and Answers
+
+### Interview Question 1 — What makes a method higher-order?
+
+**Answer:** It accepts behavior, returns behavior, or both. Java represents such behavior through functional interfaces rather than standalone function types.
+
+### Interview Question 2 — What is partial application?
+
+**Answer:** Fixing some arguments of an operation and returning behavior that accepts the remaining arguments. Capturing the first operand of multiplication can create a reusable multiplier.
+
+### Interview Question 3 — How does dependency injection help test higher-order code?
+
+**Answer:** Injecting factories, clocks, or identifier suppliers lets tests provide deterministic behavior while production callers provide real dependencies. The receiving method keeps the same policy and control flow.
+
+### Interview Question 4 — Why does wrapper order matter?
+
+**Answer:** Each wrapper controls which inner behavior it invokes. Memoizing a mapped supplier caches the mapped result, while mapping a memoized supplier reruns the mapper. Retrying or timing outside another wrapper also changes what is repeated or measured.
+
+### Interview Question 5 — What should a retry wrapper specify?
+
+**Answer:** Define retryable failures, maximum attempts, delay policy, final failure propagation, and whether the operation is safe to repeat. A failed attempt may already have caused effects, so retries do not imply exactly-once execution.
+
 
 [← 158. BinaryOperator](158_BinaryOperator.md) | [Course Index](../README.md) | [160. Streams →](../11_Stream_API/160_Streams.md)

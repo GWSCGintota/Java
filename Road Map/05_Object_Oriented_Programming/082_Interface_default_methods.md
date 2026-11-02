@@ -1,5 +1,7 @@
 # 082. Interface default methods
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/082_Interface_default_methods.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

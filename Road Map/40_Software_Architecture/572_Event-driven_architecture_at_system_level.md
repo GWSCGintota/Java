@@ -1,5 +1,7 @@
 # 572. Event-driven architecture at system level
 
+[Coding practice →](../../code_practice/40_Software_Architecture/572_Event-driven_architecture_at_system_level.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

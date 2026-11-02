@@ -1,5 +1,7 @@
 # 058. Methods
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/058_Methods.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

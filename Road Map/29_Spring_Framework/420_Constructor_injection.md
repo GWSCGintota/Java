@@ -1,5 +1,7 @@
 # 420. Constructor injection
 
+[Coding practice →](../../code_practice/29_Spring_Framework/420_Constructor_injection.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

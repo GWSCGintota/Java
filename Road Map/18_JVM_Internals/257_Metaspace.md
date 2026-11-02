@@ -1,5 +1,7 @@
 # 257. Metaspace
 
+[Coding practice →](../../code_practice/18_JVM_Internals/257_Metaspace.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

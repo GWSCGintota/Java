@@ -1,5 +1,7 @@
 # 318. Gradle
 
+[Coding practice →](../../code_practice/21_Build_Tools/318_Gradle.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

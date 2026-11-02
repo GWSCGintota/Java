@@ -1,5 +1,7 @@
 # 146. ?
 
+[Coding practice →](../../code_practice/09_Generics/146_wildcard.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

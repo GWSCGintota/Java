@@ -1,5 +1,7 @@
 # 482. Access tokens
 
+[Coding practice →](../../code_practice/33_Security/482_Access_tokens.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

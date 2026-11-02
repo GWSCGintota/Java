@@ -1,5 +1,7 @@
 # 005. main() method
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/005_main_method.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

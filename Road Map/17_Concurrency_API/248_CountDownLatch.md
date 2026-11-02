@@ -1,5 +1,7 @@
 # 248. CountDownLatch
 
+[Coding practice →](../../code_practice/17_Concurrency_API/248_CountDownLatch.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

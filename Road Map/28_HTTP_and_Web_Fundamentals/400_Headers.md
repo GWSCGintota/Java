@@ -1,5 +1,7 @@
 # 400. Headers
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/400_Headers.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

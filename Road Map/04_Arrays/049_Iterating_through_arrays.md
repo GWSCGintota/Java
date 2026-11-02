@@ -1,5 +1,7 @@
 # 049. Iterating through arrays
 
+[Coding practice →](../../code_practice/04_Arrays/049_Iterating_through_arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

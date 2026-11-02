@@ -1,5 +1,7 @@
 # 478. BCrypt
 
+[Coding practice →](../../code_practice/33_Security/478_BCrypt.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

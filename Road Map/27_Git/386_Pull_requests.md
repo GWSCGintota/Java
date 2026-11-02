@@ -1,5 +1,7 @@
 # 386. Pull requests
 
+[Coding practice →](../../code_practice/27_Git/386_Pull_requests.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

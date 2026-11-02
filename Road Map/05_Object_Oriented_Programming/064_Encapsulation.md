@@ -1,5 +1,7 @@
 # 064. Encapsulation
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/064_Encapsulation.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

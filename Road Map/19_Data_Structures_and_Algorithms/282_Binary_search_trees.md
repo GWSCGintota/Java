@@ -1,5 +1,7 @@
 # 282. Binary search trees
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/282_Binary_search_trees.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

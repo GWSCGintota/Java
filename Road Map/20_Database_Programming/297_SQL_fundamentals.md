@@ -1,5 +1,7 @@
 # 297. SQL fundamentals
 
+[Coding practice →](../../code_practice/20_Database_Programming/297_SQL_fundamentals.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

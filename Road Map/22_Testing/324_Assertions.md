@@ -1,5 +1,7 @@
 # 324. Assertions
 
+[Coding practice →](../../code_practice/22_Testing/324_Assertions.md)
+
 **Section:** Testing  
 **Level:** Intermediate
 

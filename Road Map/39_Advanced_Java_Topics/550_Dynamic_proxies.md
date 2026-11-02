@@ -1,5 +1,7 @@
 # 550. Dynamic proxies
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/550_Dynamic_proxies.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

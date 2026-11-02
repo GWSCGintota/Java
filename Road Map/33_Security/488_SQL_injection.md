@@ -1,5 +1,7 @@
 # 488. SQL injection
 
+[Coding practice →](../../code_practice/33_Security/488_SQL_injection.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

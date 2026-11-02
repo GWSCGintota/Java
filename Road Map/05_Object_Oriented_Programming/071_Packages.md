@@ -1,5 +1,7 @@
 # 071. Packages
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/071_Packages.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

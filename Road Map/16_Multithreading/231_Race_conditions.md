@@ -1,5 +1,7 @@
 # 231. Race conditions
 
+[Coding practice →](../../code_practice/16_Multithreading/231_Race_conditions.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

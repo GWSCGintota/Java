@@ -1,5 +1,7 @@
 # 423. Project structure
 
+[Coding practice →](../../code_practice/30_Spring_Boot/423_Project_structure.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

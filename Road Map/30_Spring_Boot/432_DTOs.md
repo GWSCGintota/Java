@@ -1,5 +1,7 @@
 # 432. DTOs
 
+[Coding practice →](../../code_practice/30_Spring_Boot/432_DTOs.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

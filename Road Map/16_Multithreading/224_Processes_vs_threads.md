@@ -1,5 +1,7 @@
 # 224. Processes vs threads
 
+[Coding practice →](../../code_practice/16_Multithreading/224_Processes_vs_threads.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

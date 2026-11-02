@@ -1,5 +1,7 @@
 # 390. Client-server architecture
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/390_Client-server_architecture.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

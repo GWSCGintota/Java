@@ -1,5 +1,7 @@
 # 411. Inversion of Control
 
+[Coding practice →](../../code_practice/29_Spring_Framework/411_Inversion_of_Control.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

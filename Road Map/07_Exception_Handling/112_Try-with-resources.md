@@ -1,5 +1,7 @@
 # 112. Try-with-resources
 
+[Coding practice →](../../code_practice/07_Exception_Handling/112_Try-with-resources.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

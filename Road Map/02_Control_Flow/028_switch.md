@@ -1,5 +1,7 @@
 # 028. switch
 
+[Coding practice →](../../code_practice/02_Control_Flow/028_switch.md)
+
 **Section:** Control Flow  
 **Level:** Beginner
 

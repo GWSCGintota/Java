@@ -1,5 +1,7 @@
 # 474. Spring Security
 
+[Coding practice →](../../code_practice/33_Security/474_Spring_Security.md)
+
 **Section:** Security  
 **Level:** Intermediate → Professional
 

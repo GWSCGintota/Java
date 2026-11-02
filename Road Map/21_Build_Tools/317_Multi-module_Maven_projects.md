@@ -1,5 +1,7 @@
 # 317. Multi-module Maven projects
 
+[Coding practice →](../../code_practice/21_Build_Tools/317_Multi-module_Maven_projects.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

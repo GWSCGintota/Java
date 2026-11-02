@@ -1,5 +1,7 @@
 # 078. Abstract classes
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/078_Abstract_classes.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

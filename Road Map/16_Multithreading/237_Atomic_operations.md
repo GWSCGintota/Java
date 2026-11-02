@@ -1,5 +1,7 @@
 # 237. Atomic operations
 
+[Coding practice →](../../code_practice/16_Multithreading/237_Atomic_operations.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

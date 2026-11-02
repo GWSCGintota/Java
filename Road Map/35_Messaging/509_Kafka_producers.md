@@ -1,5 +1,7 @@
 # 509. Kafka producers
 
+[Coding practice →](../../code_practice/35_Messaging/509_Kafka_producers.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

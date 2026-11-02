@@ -1,5 +1,7 @@
 # 274. Space complexity
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/274_Space_complexity.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

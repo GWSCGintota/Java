@@ -1,5 +1,7 @@
 # 435. Exception handling in Spring Boot
 
+[Coding practice →](../../code_practice/30_Spring_Boot/435_Exception_handling_in_Spring_Boot.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

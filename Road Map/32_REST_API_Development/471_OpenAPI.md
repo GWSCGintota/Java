@@ -1,5 +1,7 @@
 # 471. OpenAPI
 
+[Coding practice →](../../code_practice/32_REST_API_Development/471_OpenAPI.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

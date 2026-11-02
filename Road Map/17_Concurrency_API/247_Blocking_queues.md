@@ -1,5 +1,7 @@
 # 247. Blocking queues
 
+[Coding practice →](../../code_practice/17_Concurrency_API/247_Blocking_queues.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

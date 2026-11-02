@@ -1,5 +1,7 @@
 # 047. Creating arrays
 
+[Coding practice →](../../code_practice/04_Arrays/047_Creating_arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

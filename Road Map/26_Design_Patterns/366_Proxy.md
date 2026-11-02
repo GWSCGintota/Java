@@ -1,5 +1,7 @@
 # 366. Proxy
 
+[Coding practice →](../../code_practice/26_Design_Patterns/366_Proxy.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

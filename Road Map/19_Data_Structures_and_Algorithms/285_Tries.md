@@ -1,5 +1,7 @@
 # 285. Tries
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/285_Tries.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

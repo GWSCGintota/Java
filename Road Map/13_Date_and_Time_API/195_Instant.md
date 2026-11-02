@@ -1,5 +1,7 @@
 # 195. Instant
 
+[Coding practice →](../../code_practice/13_Date_and_Time_API/195_Instant.md)
+
 **Section:** Date and Time API  
 **Level:** Beginner → Intermediate
 

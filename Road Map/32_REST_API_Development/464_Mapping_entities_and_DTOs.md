@@ -1,5 +1,7 @@
 # 464. Mapping entities and DTOs
 
+[Coding practice →](../../code_practice/32_REST_API_Development/464_Mapping_entities_and_DTOs.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

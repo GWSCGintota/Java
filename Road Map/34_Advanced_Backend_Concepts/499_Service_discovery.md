@@ -1,5 +1,7 @@
 # 499. Service discovery
 
+[Coding practice →](../../code_practice/34_Advanced_Backend_Concepts/499_Service_discovery.md)
+
 **Section:** Advanced Backend Concepts  
 **Level:** Advanced / Professional
 

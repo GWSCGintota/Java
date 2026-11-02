@@ -1,5 +1,7 @@
 # 226. Thread
 
+[Coding practice →](../../code_practice/16_Multithreading/226_Thread.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

@@ -1,5 +1,7 @@
 # 298. Relational databases
 
+[Coding practice →](../../code_practice/20_Database_Programming/298_Relational_databases.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

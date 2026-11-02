@@ -1,5 +1,7 @@
 # 279. Hash tables
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/279_Hash_tables.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

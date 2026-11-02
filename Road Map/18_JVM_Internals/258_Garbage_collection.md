@@ -1,5 +1,7 @@
 # 258. Garbage collection
 
+[Coding practice →](../../code_practice/18_JVM_Internals/258_Garbage_collection.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

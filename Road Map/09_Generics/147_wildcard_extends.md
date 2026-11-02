@@ -1,5 +1,7 @@
 # 147. ? extends
 
+[Coding practice →](../../code_practice/09_Generics/147_wildcard_extends.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

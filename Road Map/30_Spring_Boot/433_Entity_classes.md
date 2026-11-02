@@ -1,5 +1,7 @@
 # 433. Entity classes
 
+[Coding practice →](../../code_practice/30_Spring_Boot/433_Entity_classes.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

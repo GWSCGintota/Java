@@ -1,5 +1,7 @@
 # 379. Repository
 
+[Coding practice →](../../code_practice/27_Git/379_Repository.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

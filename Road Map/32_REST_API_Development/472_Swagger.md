@@ -1,5 +1,7 @@
 # 472. Swagger
 
+[Coding practice →](../../code_practice/32_REST_API_Development/472_Swagger.md)
+
 **Section:** REST API Development  
 **Level:** Intermediate → Professional
 

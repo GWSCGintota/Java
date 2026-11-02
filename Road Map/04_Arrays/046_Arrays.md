@@ -1,5 +1,7 @@
 # 046. Arrays
 
+[Coding practice →](../../code_practice/04_Arrays/046_Arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

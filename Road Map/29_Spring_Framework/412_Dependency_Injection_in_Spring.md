@@ -1,5 +1,7 @@
 # 412. Dependency Injection in Spring
 
+[Coding practice →](../../code_practice/29_Spring_Framework/412_Dependency_Injection_in_Spring.md)
+
 **Section:** Spring Framework  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 197. Period
 
+[Coding practice →](../../code_practice/13_Date_and_Time_API/197_Period.md)
+
 **Section:** Date and Time API  
 **Level:** Beginner → Intermediate
 

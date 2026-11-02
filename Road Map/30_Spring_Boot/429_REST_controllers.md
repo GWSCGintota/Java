@@ -1,5 +1,7 @@
 # 429. REST controllers
 
+[Coding practice →](../../code_practice/30_Spring_Boot/429_REST_controllers.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

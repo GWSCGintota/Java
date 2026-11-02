@@ -4,6 +4,8 @@
 
 # 153. Predicate
 
+[Coding practice →](../../code_practice/10_Functional_Programming/153_Predicate.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

@@ -1,5 +1,7 @@
 # 289. Backtracking
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/289_Backtracking.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

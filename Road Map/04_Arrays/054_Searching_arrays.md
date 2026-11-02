@@ -1,5 +1,7 @@
 # 054. Searching arrays
 
+[Coding practice →](../../code_practice/04_Arrays/054_Searching_arrays.md)
+
 **Section:** Arrays  
 **Level:** Beginner
 

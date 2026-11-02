@@ -1,5 +1,7 @@
 # 552. JPMS
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/552_JPMS.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

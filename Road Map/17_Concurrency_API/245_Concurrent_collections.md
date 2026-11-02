@@ -1,5 +1,7 @@
 # 245. Concurrent collections
 
+[Coding practice →](../../code_practice/17_Concurrency_API/245_Concurrent_collections.md)
+
 **Section:** Concurrency API  
 **Level:** Intermediate
 

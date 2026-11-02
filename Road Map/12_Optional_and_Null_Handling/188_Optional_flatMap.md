@@ -1,5 +1,7 @@
 # 188. Optional flatMap()
 
+[Coding practice →](../../code_practice/12_Optional_and_Null_Handling/188_Optional_flatMap.md)
+
 **Section:** Optional and Null Handling  
 **Level:** Beginner → Intermediate
 

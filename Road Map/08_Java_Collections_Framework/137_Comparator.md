@@ -1,5 +1,7 @@
 # 137. Comparator
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/137_Comparator.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

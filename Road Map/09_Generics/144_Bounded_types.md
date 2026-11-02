@@ -1,5 +1,7 @@
 # 144. Bounded types
 
+[Coding practice →](../../code_practice/09_Generics/144_Bounded_types.md)
+
 **Section:** Generics  
 **Level:** Beginner → Intermediate
 

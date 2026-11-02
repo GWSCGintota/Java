@@ -1,5 +1,7 @@
 # 187. Optional map()
 
+[Coding practice →](../../code_practice/12_Optional_and_Null_Handling/187_Optional_map.md)
+
 **Section:** Optional and Null Handling  
 **Level:** Beginner → Intermediate
 

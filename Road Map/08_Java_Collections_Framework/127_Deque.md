@@ -1,5 +1,7 @@
 # 127. Deque
 
+[Coding practice →](../../code_practice/08_Java_Collections_Framework/127_Deque.md)
+
 **Section:** Java Collections Framework  
 **Level:** Beginner → Intermediate
 

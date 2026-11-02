@@ -1,5 +1,7 @@
 # 060. Constructor overloading
 
+[Coding practice →](../../code_practice/05_Object_Oriented_Programming/060_Constructor_overloading.md)
+
 **Section:** Object-Oriented Programming  
 **Level:** Beginner
 

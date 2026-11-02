@@ -1,5 +1,7 @@
 # 102. Checked exceptions
 
+[Coding practice →](../../code_practice/07_Exception_Handling/102_Checked_exceptions.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

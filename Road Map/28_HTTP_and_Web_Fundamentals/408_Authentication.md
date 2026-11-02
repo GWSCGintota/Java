@@ -1,5 +1,7 @@
 # 408. Authentication
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/408_Authentication.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

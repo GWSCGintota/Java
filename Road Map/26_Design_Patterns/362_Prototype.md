@@ -1,5 +1,7 @@
 # 362. Prototype
 
+[Coding practice →](../../code_practice/26_Design_Patterns/362_Prototype.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 385. Push
 
+[Coding practice →](../../code_practice/27_Git/385_Push.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

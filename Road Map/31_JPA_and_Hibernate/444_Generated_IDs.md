@@ -1,5 +1,7 @@
 # 444. Generated IDs
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/444_Generated_IDs.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

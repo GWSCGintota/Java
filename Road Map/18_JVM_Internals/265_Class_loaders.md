@@ -1,5 +1,7 @@
 # 265. Class loaders
 
+[Coding practice →](../../code_practice/18_JVM_Internals/265_Class_loaders.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

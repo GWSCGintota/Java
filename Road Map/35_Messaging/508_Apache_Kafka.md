@@ -1,5 +1,7 @@
 # 508. Apache Kafka
 
+[Coding practice →](../../code_practice/35_Messaging/508_Apache_Kafka.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

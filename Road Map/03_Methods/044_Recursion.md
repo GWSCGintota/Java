@@ -1,5 +1,7 @@
 # 044. Recursion
 
+[Coding practice →](../../code_practice/03_Methods/044_Recursion.md)
+
 **Section:** Methods  
 **Level:** Beginner
 

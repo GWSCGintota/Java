@@ -1,5 +1,7 @@
 # 569. CQRS
 
+[Coding practice →](../../code_practice/40_Software_Architecture/569_CQRS.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

@@ -1,5 +1,7 @@
 # 387. Merge conflicts
 
+[Coding practice →](../../code_practice/27_Git/387_Merge_conflicts.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

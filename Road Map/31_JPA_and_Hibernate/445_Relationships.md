@@ -1,5 +1,7 @@
 # 445. Relationships
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/445_Relationships.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

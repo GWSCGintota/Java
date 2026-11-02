@@ -1,5 +1,7 @@
 # 314. Plugins
 
+[Coding practice →](../../code_practice/21_Build_Tools/314_Plugins.md)
+
 **Section:** Build Tools  
 **Level:** Intermediate
 

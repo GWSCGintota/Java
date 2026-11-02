@@ -1,5 +1,7 @@
 # 207. Reading files
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/207_Reading_files.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 283. Heaps
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/283_Heaps.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

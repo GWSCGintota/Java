@@ -1,5 +1,7 @@
 # 577. High availability
 
+[Coding practice →](../../code_practice/40_Software_Architecture/577_High_availability.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

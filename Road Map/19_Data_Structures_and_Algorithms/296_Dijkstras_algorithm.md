@@ -1,5 +1,7 @@
 # 296. Dijkstra's algorithm
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/296_Dijkstras_algorithm.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

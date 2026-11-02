@@ -1,5 +1,7 @@
 # 273. Time complexity
 
+[Coding practice →](../../code_practice/19_Data_Structures_and_Algorithms/273_Time_complexity.md)
+
 **Section:** Data Structures & Algorithms  
 **Level:** Intermediate
 

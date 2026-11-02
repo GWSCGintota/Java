@@ -1,5 +1,7 @@
 # 446. One-to-one
 
+[Coding practice →](../../code_practice/31_JPA_and_Hibernate/446_One-to-one.md)
+
 **Section:** JPA and Hibernate  
 **Level:** Intermediate → Professional
 

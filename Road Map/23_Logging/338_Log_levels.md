@@ -1,5 +1,7 @@
 # 338. Log levels
 
+[Coding practice →](../../code_practice/23_Logging/338_Log_levels.md)
+
 **Section:** Logging  
 **Level:** Intermediate
 

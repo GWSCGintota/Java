@@ -1,5 +1,7 @@
 # 110. Creating custom exceptions
 
+[Coding practice →](../../code_practice/07_Exception_Handling/110_Creating_custom_exceptions.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

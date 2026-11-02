@@ -4,6 +4,8 @@
 
 # 155. Consumer
 
+[Coding practice →](../../code_practice/10_Functional_Programming/155_Consumer.md)
+
 **Section:** Java Functional Programming
 
 **Level:** Beginner → Advanced

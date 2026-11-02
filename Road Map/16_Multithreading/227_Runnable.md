@@ -1,5 +1,7 @@
 # 227. Runnable
 
+[Coding practice →](../../code_practice/16_Multithreading/227_Runnable.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 

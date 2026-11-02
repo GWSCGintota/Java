@@ -1,5 +1,7 @@
 # 404. REST
 
+[Coding practice →](../../code_practice/28_HTTP_and_Web_Fundamentals/404_REST.md)
+
 **Section:** HTTP and Web Fundamentals  
 **Level:** Intermediate → Professional
 

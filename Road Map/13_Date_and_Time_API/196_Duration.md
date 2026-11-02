@@ -1,5 +1,7 @@
 # 196. Duration
 
+[Coding practice →](../../code_practice/13_Date_and_Time_API/196_Duration.md)
+
 **Section:** Date and Time API  
 **Level:** Beginner → Intermediate
 

@@ -1,5 +1,7 @@
 # 001. Introduction to Java
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/001_Introduction_to_Java.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

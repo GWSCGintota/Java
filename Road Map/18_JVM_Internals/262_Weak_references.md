@@ -1,5 +1,7 @@
 # 262. Weak references
 
+[Coding practice →](../../code_practice/18_JVM_Internals/262_Weak_references.md)
+
 **Section:** JVM Internals  
 **Level:** Intermediate
 

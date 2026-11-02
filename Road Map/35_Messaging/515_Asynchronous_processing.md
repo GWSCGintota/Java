@@ -1,5 +1,7 @@
 # 515. Asynchronous processing
 
+[Coding practice →](../../code_practice/35_Messaging/515_Asynchronous_processing.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

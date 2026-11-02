@@ -1,5 +1,7 @@
 # 428. Controllers
 
+[Coding practice →](../../code_practice/30_Spring_Boot/428_Controllers.md)
+
 **Section:** Spring Boot  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 299. PostgreSQL or MySQL
 
+[Coding practice →](../../code_practice/20_Database_Programming/299_PostgreSQL_or_MySQL.md)
+
 **Section:** Database Programming  
 **Level:** Intermediate
 

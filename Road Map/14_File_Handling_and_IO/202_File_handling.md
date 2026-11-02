@@ -1,5 +1,7 @@
 # 202. File handling
 
+[Coding practice →](../../code_practice/14_File_Handling_and_IO/202_File_handling.md)
+
 **Section:** File Handling and I/O  
 **Level:** Beginner → Intermediate
 

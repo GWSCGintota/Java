@@ -1,5 +1,7 @@
 # 105. catch
 
+[Coding practice →](../../code_practice/07_Exception_Handling/105_catch.md)
+
 **Section:** Exception Handling  
 **Level:** Beginner → Intermediate
 

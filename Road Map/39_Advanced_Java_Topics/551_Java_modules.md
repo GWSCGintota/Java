@@ -1,5 +1,7 @@
 # 551. Java modules
 
+[Coding practice →](../../code_practice/39_Advanced_Java_Topics/551_Java_modules.md)
+
 **Section:** Advanced Java Topics  
 **Level:** Advanced / Professional
 

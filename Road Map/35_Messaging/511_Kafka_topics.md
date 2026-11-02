@@ -1,5 +1,7 @@
 # 511. Kafka topics
 
+[Coding practice →](../../code_practice/35_Messaging/511_Kafka_topics.md)
+
 **Section:** Messaging  
 **Level:** Advanced / Professional
 

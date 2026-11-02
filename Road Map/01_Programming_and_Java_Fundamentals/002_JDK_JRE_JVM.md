@@ -1,5 +1,7 @@
 # 002. JDK, JRE, JVM
 
+[Coding practice →](../../code_practice/01_Programming_and_Java_Fundamentals/002_JDK_JRE_JVM.md)
+
 **Section:** Programming & Java Fundamentals  
 **Level:** Beginner
 

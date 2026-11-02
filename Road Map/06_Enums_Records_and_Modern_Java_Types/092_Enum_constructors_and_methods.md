@@ -1,5 +1,7 @@
 # 092. Enum constructors and methods
 
+[Coding practice →](../../code_practice/06_Enums_Records_and_Modern_Java_Types/092_Enum_constructors_and_methods.md)
+
 **Section:** Enums, Records and Modern Java Types  
 **Level:** Beginner
 

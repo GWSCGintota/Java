@@ -1,5 +1,7 @@
 # 382. Merge
 
+[Coding practice →](../../code_practice/27_Git/382_Merge.md)
+
 **Section:** Git  
 **Level:** Intermediate → Professional
 

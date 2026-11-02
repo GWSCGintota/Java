@@ -1,5 +1,7 @@
 # 365. Facade
 
+[Coding practice →](../../code_practice/26_Design_Patterns/365_Facade.md)
+
 **Section:** Design Patterns  
 **Level:** Intermediate → Professional
 

@@ -1,5 +1,7 @@
 # 565. Hexagonal architecture
 
+[Coding practice →](../../code_practice/40_Software_Architecture/565_Hexagonal_architecture.md)
+
 **Section:** Software Architecture  
 **Level:** Advanced / Professional
 

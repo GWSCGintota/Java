@@ -1,5 +1,7 @@
 # 230. join()
 
+[Coding practice →](../../code_practice/16_Multithreading/230_join.md)
+
 **Section:** Multithreading  
 **Level:** Intermediate
 
